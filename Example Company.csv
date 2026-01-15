@@ -1,0 +1,1001 @@
+﻿Employee ID,First Name,Last Name,Gender,State,City,Education Level,Birth Date,Hire Date,Term Date,Department,Job Title,Salary,Performance Rating
+EMP0001,Arjun,Sharma,Male,Uttar Pradesh,Noida,Diploma,2/18/1988,4/5/2023,,Marketing,Marketing Executive,869176,Needs Improvement
+EMP0002,Vivaan,Sharma,Male,Delhi,New Delhi,Diploma,5/2/1996,10/1/2021,1/17/2023,Operations,Operations Executive,1000800,Needs Improvement
+EMP0003,Aman,Patel,Male,Madhya Pradesh,Bhopal,10+2,1/8/2002,1/14/2024,,Marketing,SEO Specialist,606778,Average
+EMP0004,Rohan,Mehta,Male,Gujarat,Ahmedabad,10+2,7/10/1993,2/1/2016,,Finance,Financial Analyst,1096335,Excellent
+EMP0005,Riya,Jain,Female,Delhi,New Delhi,10+2,5/20/1997,4/15/2018,12/31/2025,Operations,Operations Manager,855397,Good
+EMP0006,Aditya,Sharma,Male,Tamil Nadu,Coimbatore,10+2,3/23/1990,9/19/2024,,Sales,Sales Manager,725435,Average
+EMP0007,Rahul,Singh,Male,Gujarat,Ahmedabad,Graduate,9/28/2000,8/31/2022,6/18/2024,Operations,Operations Executive,810086,Good
+EMP0008,Rahul,Patel,Male,Rajasthan,Udaipur,Diploma,5/10/2000,8/21/2018,,HR,HR Executive,1094151,Average
+EMP0009,Anjali,Agarwal,Female,Delhi,New Delhi,Graduate,10/8/1989,5/8/2022,,Sales,Sales Manager,399811,Average
+EMP0010,Rohan,Mehta,Male,Telangana,Hyderabad,Post Graduate,2/2/1998,6/24/2019,,HR,HR Executive,784277,Needs Improvement
+EMP0011,Aditya,Sharma,Male,Delhi,New Delhi,Diploma,10/7/2002,8/19/2022,,Operations,Operations Executive,653457,Needs Improvement
+EMP0012,Isha,Patel,Female,Telangana,Hyderabad,10+2,4/4/2000,1/31/2023,,Marketing,SEO Specialist,1055934,Average
+EMP0013,Arjun,Agarwal,Male,Rajasthan,Jaipur,Post Graduate,1/27/1985,2/5/2023,12/31/2025,Operations,Operations Executive,782342,Excellent
+EMP0014,Ankit,Jain,Male,Madhya Pradesh,Indore,Diploma,5/22/1993,7/21/2023,,Operations,Operations Executive,878038,Average
+EMP0015,Kavya,Sharma,Female,Delhi,New Delhi,Graduate,5/16/1990,8/26/2015,,Operations,Operations Executive,339814,Needs Improvement
+EMP0016,Aditya,Jain,Male,Karnataka,Bengaluru,Post Graduate,5/1/1997,11/7/2016,,Operations,Operations Manager,472086,Good
+EMP0017,Ankit,Kumar,Male,Gujarat,Surat,Post Graduate,9/19/1987,10/12/2017,,IT,Data Analyst,272056,Good
+EMP0018,Nisha,Mehta,Female,Maharashtra,Mumbai,10+2,2/19/1990,10/4/2015,,Finance,Accountant,789131,Good
+EMP0019,Siddharth,Patel,Male,Tamil Nadu,Chennai,Post Graduate,6/14/1990,10/19/2023,,Sales,Sales Executive,348907,Excellent
+EMP0020,Pooja,Singh,Female,Rajasthan,Udaipur,Post Graduate,5/9/2001,8/10/2015,,IT,Data Analyst,1013587,Average
+EMP0021,Arjun,Mehta,Male,Tamil Nadu,Chennai,Post Graduate,2/23/1988,9/25/2019,10/15/2022,Finance,Financial Analyst,511941,Excellent
+EMP0022,Riya,Jain,Female,Delhi,New Delhi,10+2,2/4/1987,6/14/2023,,HR,HR Manager,759231,Needs Improvement
+EMP0023,Karan,Kumar,Male,Maharashtra,Mumbai,Post Graduate,1/18/1985,5/19/2019,,Sales,Sales Manager,693555,Needs Improvement
+EMP0024,Rohan,Mehta,Male,Uttar Pradesh,Noida,10+2,12/28/1997,4/2/2023,,IT,QA Engineer,578838,Excellent
+EMP0025,Vivaan,Malhotra,Male,West Bengal,Kolkata,10+2,5/23/1996,11/25/2015,12/25/2018,IT,QA Engineer,321262,Good
+EMP0026,Anjali,Verma,Female,Madhya Pradesh,Indore,10+2,11/22/1998,12/2/2015,,Marketing,SEO Specialist,523432,Good
+EMP0027,Priya,Mehta,Female,Uttar Pradesh,Lucknow,Diploma,1/25/2000,3/28/2022,,Sales,Sales Manager,1038387,Excellent
+EMP0028,Aarav,Patel,Male,Madhya Pradesh,Indore,10+2,1/22/1997,5/23/2017,,Finance,Accountant,615962,Excellent
+EMP0029,Aman,Singh,Male,Uttar Pradesh,Noida,Post Graduate,9/14/2003,2/3/2021,6/26/2025,Operations,Operations Executive,950305,Average
+EMP0030,Arjun,Gupta,Male,Uttar Pradesh,Noida,10+2,8/26/2001,3/16/2021,,Finance,Financial Analyst,884210,Good
+EMP0031,Priya,Mehta,Female,Uttar Pradesh,Lucknow,Graduate,12/24/2003,7/28/2015,8/9/2017,Marketing,SEO Specialist,1119634,Average
+EMP0032,Vivaan,Sharma,Male,Gujarat,Ahmedabad,Graduate,8/16/1988,4/25/2023,12/31/2025,Operations,Operations Manager,838153,Excellent
+EMP0033,Arjun,Verma,Male,Karnataka,Bengaluru,Graduate,1/24/1998,3/13/2021,,Sales,Sales Executive,293860,Average
+EMP0034,Neha,Sharma,Female,Gujarat,Ahmedabad,Diploma,12/17/1999,2/26/2016,,Operations,Operations Manager,900810,Good
+EMP0035,Aman,Gupta,Male,Karnataka,Mysuru,10+2,1/9/1989,4/5/2023,,Sales,Sales Executive,529766,Good
+EMP0036,Arjun,Kumar,Male,Maharashtra,Pune,Diploma,6/23/1989,2/27/2024,,Finance,Financial Analyst,1110394,Good
+EMP0037,Aman,Sharma,Male,Tamil Nadu,Coimbatore,Graduate,4/2/1991,9/10/2024,,Finance,Financial Analyst,922642,Needs Improvement
+EMP0038,Aditi,Singh,Female,Maharashtra,Mumbai,Graduate,1/2/1989,7/6/2021,,IT,Software Engineer,875550,Needs Improvement
+EMP0039,Neha,Singh,Female,Rajasthan,Jaipur,Post Graduate,12/7/1997,2/17/2017,,IT,QA Engineer,707239,Excellent
+EMP0040,Sneha,Jain,Female,Tamil Nadu,Coimbatore,Post Graduate,7/28/1986,6/13/2022,12/31/2025,Operations,Operations Manager,945612,Excellent
+EMP0041,Ankit,Jain,Male,Uttar Pradesh,Lucknow,Graduate,1/10/1994,10/26/2022,,Operations,Operations Executive,451158,Needs Improvement
+EMP0042,Anjali,Gupta,Female,Madhya Pradesh,Bhopal,Post Graduate,4/16/1997,5/7/2024,,Finance,Financial Analyst,470392,Needs Improvement
+EMP0043,Nisha,Malhotra,Female,Gujarat,Surat,Post Graduate,12/2/1994,7/30/2022,12/21/2025,Operations,Operations Manager,1082291,Good
+EMP0044,Aditya,Agarwal,Male,Telangana,Hyderabad,10+2,5/11/2003,6/4/2023,,Marketing,SEO Specialist,485552,Good
+EMP0045,Rohan,Sharma,Male,Maharashtra,Mumbai,Post Graduate,9/17/1998,7/12/2024,,Sales,Sales Manager,1179181,Good
+EMP0046,Anjali,Patel,Female,Rajasthan,Jaipur,Diploma,9/19/1999,9/17/2022,,IT,Data Analyst,479471,Good
+EMP0047,Sneha,Patel,Female,Maharashtra,Nagpur,Diploma,9/22/1987,2/13/2020,,Sales,Sales Manager,1041937,Needs Improvement
+EMP0048,Isha,Jain,Female,Rajasthan,Udaipur,Diploma,9/6/2001,8/29/2024,,Sales,Sales Manager,1038295,Good
+EMP0049,Siddharth,Jain,Male,West Bengal,Kolkata,Graduate,11/13/1994,11/14/2015,1/27/2020,HR,HR Manager,602161,Average
+EMP0050,Aditi,Verma,Female,Karnataka,Bengaluru,Diploma,8/4/1993,10/13/2022,6/29/2025,Marketing,Marketing Executive,317348,Needs Improvement
+EMP0051,Pooja,Singh,Female,Telangana,Hyderabad,Post Graduate,5/26/1986,4/27/2017,,Sales,Sales Executive,1148348,Needs Improvement
+EMP0052,Kavya,Sharma,Female,Gujarat,Surat,Post Graduate,9/30/2003,9/13/2019,,Marketing,Marketing Executive,761945,Good
+EMP0053,Siddharth,Kumar,Male,West Bengal,Kolkata,Post Graduate,7/16/1992,7/2/2022,,Marketing,Marketing Executive,1131334,Needs Improvement
+EMP0054,Rohan,Malhotra,Male,Telangana,Hyderabad,Post Graduate,4/11/1998,4/30/2021,,IT,QA Engineer,699433,Good
+EMP0055,Riya,Gupta,Female,Maharashtra,Pune,Post Graduate,5/5/1992,5/16/2017,6/21/2023,Finance,Financial Analyst,1048207,Needs Improvement
+EMP0056,Siddharth,Kumar,Male,Uttar Pradesh,Noida,Post Graduate,6/8/1985,5/27/2023,,IT,Data Analyst,485113,Excellent
+EMP0057,Vivaan,Sharma,Male,Tamil Nadu,Chennai,10+2,12/8/1998,9/16/2016,5/20/2020,HR,HR Manager,951978,Excellent
+EMP0058,Nisha,Mehta,Female,West Bengal,Kolkata,Graduate,10/6/1988,10/17/2021,,Marketing,Marketing Executive,1065573,Good
+EMP0059,Ankit,Verma,Male,Madhya Pradesh,Indore,Graduate,11/30/1997,8/6/2022,12/31/2025,Sales,Sales Executive,329688,Good
+EMP0060,Arjun,Agarwal,Male,Madhya Pradesh,Indore,10+2,10/15/1992,12/22/2020,,Marketing,SEO Specialist,322306,Average
+EMP0061,Aarav,Kumar,Male,West Bengal,Kolkata,Post Graduate,2/15/1993,2/16/2022,12/31/2025,Marketing,Marketing Executive,706641,Good
+EMP0062,Sneha,Agarwal,Female,Madhya Pradesh,Bhopal,Post Graduate,10/9/1994,4/5/2024,,Finance,Financial Analyst,1143085,Good
+EMP0063,Aditya,Agarwal,Male,West Bengal,Kolkata,Post Graduate,10/13/1997,11/4/2021,12/31/2025,Finance,Accountant,768317,Average
+EMP0064,Rahul,Patel,Male,Tamil Nadu,Coimbatore,Graduate,8/20/1992,2/19/2018,,Marketing,SEO Specialist,832789,Excellent
+EMP0065,Sneha,Mehta,Female,Delhi,New Delhi,Post Graduate,12/17/1995,3/24/2021,,Marketing,SEO Specialist,927278,Needs Improvement
+EMP0066,Riya,Sharma,Female,Delhi,New Delhi,Diploma,1/26/1994,10/4/2022,12/31/2025,Finance,Financial Analyst,746249,Average
+EMP0067,Pooja,Jain,Female,Gujarat,Surat,Post Graduate,1/29/1991,6/9/2018,4/3/2022,HR,HR Executive,1006321,Good
+EMP0068,Priya,Verma,Female,Telangana,Hyderabad,Diploma,11/8/1989,4/14/2023,12/31/2025,Finance,Financial Analyst,355409,Good
+EMP0069,Ankit,Mehta,Male,Gujarat,Ahmedabad,Graduate,4/26/1985,12/10/2022,,HR,HR Manager,297726,Excellent
+EMP0070,Aditi,Agarwal,Female,Karnataka,Mysuru,10+2,4/11/1985,6/9/2021,,Sales,Sales Manager,711865,Average
+EMP0071,Rahul,Sharma,Male,Uttar Pradesh,Lucknow,10+2,6/10/2003,9/25/2015,,Sales,Sales Executive,855050,Excellent
+EMP0072,Rohan,Gupta,Male,Madhya Pradesh,Bhopal,10+2,7/27/1990,4/30/2016,8/2/2023,Sales,Sales Executive,1063373,Needs Improvement
+EMP0073,Riya,Patel,Female,Uttar Pradesh,Lucknow,Graduate,10/3/1997,12/18/2021,8/21/2023,Operations,Operations Executive,1049787,Good
+EMP0074,Karan,Agarwal,Male,Delhi,New Delhi,Diploma,11/24/1988,3/10/2021,,HR,HR Executive,678361,Needs Improvement
+EMP0075,Isha,Patel,Female,Uttar Pradesh,Noida,Diploma,6/19/1991,12/5/2022,,Marketing,SEO Specialist,324637,Good
+EMP0076,Siddharth,Malhotra,Male,Tamil Nadu,Coimbatore,10+2,3/20/1997,7/9/2017,,Finance,Accountant,324878,Excellent
+EMP0077,Rahul,Agarwal,Male,Madhya Pradesh,Bhopal,Post Graduate,10/16/1987,4/3/2020,,Marketing,SEO Specialist,535470,Needs Improvement
+EMP0078,Riya,Verma,Female,Madhya Pradesh,Indore,Post Graduate,6/23/2001,8/13/2018,,Finance,Accountant,345763,Good
+EMP0079,Nisha,Malhotra,Female,Maharashtra,Nagpur,Graduate,12/4/1997,6/14/2015,,Sales,Sales Manager,541668,Good
+EMP0080,Nisha,Kumar,Female,West Bengal,Kolkata,Post Graduate,10/21/1992,7/31/2019,,Finance,Accountant,1149398,Good
+EMP0081,Priya,Kumar,Female,West Bengal,Kolkata,Post Graduate,4/1/2003,7/13/2023,,IT,Data Analyst,342337,Average
+EMP0082,Siddharth,Singh,Male,Delhi,New Delhi,10+2,10/2/1999,9/30/2024,,Sales,Sales Manager,306837,Good
+EMP0083,Sneha,Singh,Female,Madhya Pradesh,Bhopal,Post Graduate,1/17/2002,7/31/2015,,Finance,Accountant,552020,Needs Improvement
+EMP0084,Kavya,Verma,Female,Maharashtra,Nagpur,Diploma,12/2/2000,10/10/2016,4/4/2021,Operations,Operations Executive,829077,Needs Improvement
+EMP0085,Aditya,Mehta,Male,Delhi,New Delhi,10+2,7/13/1999,5/1/2024,12/31/2025,Sales,Sales Manager,783590,Average
+EMP0086,Pooja,Patel,Female,West Bengal,Kolkata,Post Graduate,5/13/1997,8/15/2016,,HR,HR Executive,1155997,Excellent
+EMP0087,Siddharth,Kumar,Male,Gujarat,Surat,10+2,5/7/1991,2/21/2023,,Operations,Operations Manager,1157291,Good
+EMP0088,Riya,Jain,Female,West Bengal,Kolkata,Graduate,5/19/1997,7/22/2023,,Sales,Sales Manager,587408,Good
+EMP0089,Aman,Malhotra,Male,Rajasthan,Jaipur,Post Graduate,12/24/1985,7/27/2018,,Marketing,SEO Specialist,654832,Good
+EMP0090,Kavya,Sharma,Female,Karnataka,Mysuru,10+2,12/15/2003,12/9/2019,,Operations,Operations Manager,266093,Good
+EMP0091,Pooja,Gupta,Female,Delhi,New Delhi,Graduate,8/5/1992,12/27/2021,,Marketing,Marketing Executive,1143140,Average
+EMP0092,Aditi,Kumar,Female,Gujarat,Surat,10+2,11/7/1998,10/8/2015,5/26/2019,Marketing,SEO Specialist,488536,Excellent
+EMP0093,Pooja,Verma,Female,Delhi,New Delhi,Diploma,7/26/2000,5/11/2018,9/6/2019,IT,Data Analyst,1084816,Excellent
+EMP0094,Ankit,Singh,Male,Gujarat,Surat,Diploma,6/24/1990,12/15/2020,12/31/2025,Operations,Operations Executive,428240,Good
+EMP0095,Aditya,Malhotra,Male,Rajasthan,Jaipur,Post Graduate,1/30/1998,8/9/2016,,Sales,Sales Manager,731894,Average
+EMP0096,Aarav,Patel,Male,Uttar Pradesh,Noida,10+2,11/28/1994,11/16/2018,,Finance,Financial Analyst,973846,Average
+EMP0097,Riya,Agarwal,Female,Tamil Nadu,Coimbatore,Post Graduate,5/24/1987,8/29/2017,12/8/2022,Operations,Operations Manager,852733,Average
+EMP0098,Ankit,Sharma,Male,Rajasthan,Udaipur,10+2,9/11/1997,9/13/2024,12/31/2025,Operations,Operations Manager,1123294,Average
+EMP0099,Aman,Malhotra,Male,Gujarat,Ahmedabad,Diploma,12/5/1998,10/23/2017,5/5/2020,Marketing,Marketing Executive,1197287,Excellent
+EMP0100,Ankit,Patel,Male,Maharashtra,Nagpur,Graduate,6/5/2001,6/22/2016,6/26/2018,Finance,Financial Analyst,1033790,Needs Improvement
+EMP0101,Rahul,Mehta,Male,Karnataka,Mysuru,Graduate,8/18/2003,11/4/2016,,Sales,Sales Manager,1032824,Average
+EMP0102,Arjun,Patel,Male,Delhi,New Delhi,Diploma,3/3/2000,2/14/2023,12/31/2025,Operations,Operations Manager,344689,Needs Improvement
+EMP0103,Aarav,Agarwal,Male,Telangana,Hyderabad,Post Graduate,4/8/1993,7/18/2022,12/31/2025,Operations,Operations Manager,1112367,Average
+EMP0104,Arjun,Mehta,Male,West Bengal,Kolkata,Graduate,9/7/1998,6/25/2017,,Marketing,SEO Specialist,985132,Average
+EMP0105,Pooja,Verma,Female,Karnataka,Bengaluru,10+2,10/30/1991,7/10/2020,,IT,Software Engineer,1180358,Good
+EMP0106,Anjali,Patel,Female,Gujarat,Surat,Diploma,4/22/1994,5/6/2022,,Sales,Sales Manager,543328,Excellent
+EMP0107,Neha,Mehta,Female,West Bengal,Kolkata,Diploma,2/19/1993,2/11/2016,3/25/2021,Operations,Operations Manager,313491,Needs Improvement
+EMP0108,Siddharth,Mehta,Male,Delhi,New Delhi,10+2,11/13/1999,5/18/2017,,Marketing,Marketing Executive,303035,Average
+EMP0109,Aman,Gupta,Male,Madhya Pradesh,Indore,10+2,8/12/2003,8/1/2023,,HR,HR Executive,1102547,Good
+EMP0110,Priya,Gupta,Female,Madhya Pradesh,Indore,Graduate,3/31/1988,6/16/2016,,Finance,Accountant,365266,Excellent
+EMP0111,Rohan,Sharma,Male,Gujarat,Ahmedabad,Graduate,5/10/1985,12/14/2016,12/4/2020,IT,Software Engineer,1027747,Needs Improvement
+EMP0112,Sneha,Verma,Female,Delhi,New Delhi,Post Graduate,6/14/2002,1/22/2019,,Operations,Operations Executive,723962,Good
+EMP0113,Isha,Sharma,Female,Telangana,Hyderabad,Post Graduate,6/7/1999,5/8/2015,,Sales,Sales Manager,696980,Excellent
+EMP0114,Kavya,Patel,Female,Delhi,New Delhi,Graduate,8/24/1998,8/30/2016,,HR,HR Manager,904644,Average
+EMP0115,Anjali,Malhotra,Female,Telangana,Hyderabad,Post Graduate,5/4/1996,10/15/2021,,IT,QA Engineer,369971,Good
+EMP0116,Pooja,Patel,Female,Tamil Nadu,Coimbatore,Graduate,7/24/2003,2/1/2020,,Sales,Sales Executive,577730,Needs Improvement
+EMP0117,Priya,Agarwal,Female,Gujarat,Ahmedabad,Post Graduate,7/4/1986,1/9/2016,,IT,Data Analyst,351255,Average
+EMP0118,Rohan,Jain,Male,Maharashtra,Nagpur,Graduate,1/11/2000,5/15/2016,,Finance,Financial Analyst,1160260,Excellent
+EMP0119,Ankit,Malhotra,Male,Uttar Pradesh,Lucknow,10+2,12/18/1997,9/9/2020,,HR,HR Manager,485137,Excellent
+EMP0120,Neha,Jain,Female,Gujarat,Ahmedabad,Graduate,11/17/1997,7/15/2017,5/7/2023,Operations,Operations Executive,888577,Average
+EMP0121,Aarav,Gupta,Male,Uttar Pradesh,Lucknow,Graduate,11/15/1992,1/26/2015,,HR,HR Manager,322965,Good
+EMP0122,Aarav,Verma,Male,Telangana,Hyderabad,Post Graduate,6/2/1994,2/2/2020,,HR,HR Manager,576775,Average
+EMP0123,Nisha,Malhotra,Female,Delhi,New Delhi,Diploma,7/13/1988,6/18/2023,12/31/2025,IT,QA Engineer,335544,Average
+EMP0124,Riya,Kumar,Female,West Bengal,Kolkata,Post Graduate,2/16/1991,6/1/2017,2/28/2024,IT,Data Analyst,700797,Excellent
+EMP0125,Ankit,Malhotra,Male,West Bengal,Kolkata,10+2,12/12/1989,6/7/2019,,IT,Software Engineer,464353,Average
+EMP0126,Karan,Gupta,Male,Uttar Pradesh,Lucknow,Graduate,9/10/1987,2/1/2015,,Marketing,SEO Specialist,434229,Good
+EMP0127,Anjali,Jain,Female,Tamil Nadu,Coimbatore,10+2,11/27/1993,8/30/2024,,Sales,Sales Executive,732087,Excellent
+EMP0128,Priya,Malhotra,Female,Rajasthan,Udaipur,Post Graduate,6/30/1991,4/16/2016,,IT,Data Analyst,430222,Needs Improvement
+EMP0129,Neha,Verma,Female,Rajasthan,Jaipur,Diploma,10/10/1994,8/9/2021,,Operations,Operations Executive,664991,Average
+EMP0130,Priya,Mehta,Female,Gujarat,Ahmedabad,10+2,6/13/1996,2/6/2022,,Operations,Operations Executive,1199928,Average
+EMP0131,Neha,Gupta,Female,Tamil Nadu,Chennai,Diploma,9/28/1990,3/19/2017,,Operations,Operations Executive,1047143,Excellent
+EMP0132,Rahul,Patel,Male,West Bengal,Kolkata,Graduate,1/26/1999,7/18/2018,,Sales,Sales Executive,741699,Needs Improvement
+EMP0133,Ankit,Agarwal,Male,Madhya Pradesh,Indore,Graduate,5/19/1996,10/31/2015,,Sales,Sales Manager,289434,Excellent
+EMP0134,Neha,Agarwal,Female,Delhi,New Delhi,Post Graduate,5/19/1995,7/5/2021,,Marketing,Marketing Executive,721579,Good
+EMP0135,Priya,Malhotra,Female,West Bengal,Kolkata,10+2,2/8/1995,2/28/2016,,Marketing,Marketing Executive,779057,Good
+EMP0136,Vivaan,Mehta,Male,West Bengal,Kolkata,Diploma,3/1/1993,3/8/2019,,Sales,Sales Manager,1062085,Average
+EMP0137,Isha,Sharma,Female,Gujarat,Ahmedabad,Graduate,2/14/1987,4/4/2021,12/31/2025,Finance,Financial Analyst,1008889,Good
+EMP0138,Priya,Verma,Female,Madhya Pradesh,Indore,Graduate,12/17/1991,5/11/2022,,HR,HR Executive,574620,Needs Improvement
+EMP0139,Priya,Gupta,Female,Telangana,Hyderabad,Post Graduate,5/28/1996,1/22/2019,4/5/2020,Finance,Financial Analyst,439019,Good
+EMP0140,Priya,Patel,Female,Tamil Nadu,Chennai,Diploma,6/23/1988,11/13/2015,,IT,QA Engineer,1058320,Excellent
+EMP0141,Priya,Malhotra,Female,Karnataka,Mysuru,Diploma,8/22/1988,1/10/2017,,HR,HR Manager,295814,Needs Improvement
+EMP0142,Neha,Mehta,Female,West Bengal,Kolkata,Post Graduate,4/1/1990,12/27/2020,9/1/2024,Finance,Financial Analyst,1197885,Good
+EMP0143,Neha,Malhotra,Female,West Bengal,Kolkata,Graduate,6/15/2002,4/14/2019,,Operations,Operations Manager,419930,Good
+EMP0144,Isha,Gupta,Female,Uttar Pradesh,Noida,Post Graduate,4/29/1993,3/21/2021,,Marketing,Marketing Executive,548910,Excellent
+EMP0145,Rahul,Agarwal,Male,West Bengal,Kolkata,Post Graduate,1/22/1987,6/28/2017,7/19/2023,Finance,Accountant,685050,Excellent
+EMP0146,Anjali,Jain,Female,Gujarat,Ahmedabad,Post Graduate,10/31/1986,3/16/2019,,IT,Data Analyst,353896,Average
+EMP0147,Rohan,Gupta,Male,Maharashtra,Pune,Post Graduate,8/12/2000,4/27/2024,,Marketing,SEO Specialist,720392,Excellent
+EMP0148,Aditya,Sharma,Male,Uttar Pradesh,Noida,Diploma,4/23/1997,2/26/2023,12/31/2025,Operations,Operations Manager,366587,Average
+EMP0149,Aman,Agarwal,Male,Delhi,New Delhi,Diploma,6/2/1994,3/2/2022,,Sales,Sales Executive,366242,Needs Improvement
+EMP0150,Isha,Jain,Female,Maharashtra,Nagpur,Diploma,2/12/2001,8/11/2016,,Sales,Sales Executive,894674,Average
+EMP0151,Aman,Malhotra,Male,Rajasthan,Jaipur,10+2,9/28/1996,1/17/2019,,Operations,Operations Executive,659420,Needs Improvement
+EMP0152,Vivaan,Kumar,Male,Gujarat,Surat,10+2,1/4/1993,11/4/2023,8/6/2025,Finance,Accountant,1018544,Excellent
+EMP0153,Nisha,Singh,Female,Karnataka,Bengaluru,Graduate,3/31/1997,10/18/2018,12/31/2025,HR,HR Manager,979168,Needs Improvement
+EMP0154,Rahul,Gupta,Male,Delhi,New Delhi,10+2,8/1/1991,4/5/2017,,HR,HR Executive,580926,Average
+EMP0155,Sneha,Kumar,Female,Telangana,Hyderabad,Graduate,10/27/1985,6/13/2023,,Finance,Financial Analyst,1154017,Excellent
+EMP0156,Priya,Agarwal,Female,Delhi,New Delhi,Post Graduate,12/21/1993,5/3/2023,,Sales,Sales Manager,445892,Needs Improvement
+EMP0157,Kavya,Singh,Female,Telangana,Hyderabad,10+2,4/23/2001,10/5/2019,,Sales,Sales Executive,821971,Average
+EMP0158,Priya,Verma,Female,Delhi,New Delhi,Graduate,11/16/1991,1/1/2020,,Marketing,SEO Specialist,424739,Needs Improvement
+EMP0159,Neha,Patel,Female,Maharashtra,Nagpur,Graduate,10/16/1998,11/17/2019,12/15/2023,Marketing,Marketing Executive,328686,Needs Improvement
+EMP0160,Neha,Jain,Female,Karnataka,Bengaluru,Diploma,8/18/1998,8/9/2022,,IT,Software Engineer,320499,Good
+EMP0161,Neha,Singh,Female,Rajasthan,Jaipur,Diploma,3/25/2000,1/17/2020,,Finance,Financial Analyst,1050152,Excellent
+EMP0162,Nisha,Gupta,Female,Telangana,Hyderabad,Post Graduate,1/20/1992,4/14/2022,,HR,HR Executive,277172,Good
+EMP0163,Kavya,Jain,Female,Rajasthan,Jaipur,Graduate,5/20/2002,12/2/2017,,HR,HR Manager,977691,Needs Improvement
+EMP0164,Karan,Verma,Male,Karnataka,Bengaluru,Post Graduate,11/15/1988,12/31/2022,,IT,QA Engineer,1136593,Average
+EMP0165,Neha,Verma,Female,Telangana,Hyderabad,Graduate,7/14/1988,12/25/2022,,HR,HR Manager,783469,Good
+EMP0166,Arjun,Mehta,Male,Karnataka,Bengaluru,Post Graduate,8/4/1985,1/18/2019,12/31/2025,Operations,Operations Manager,740110,Good
+EMP0167,Isha,Verma,Female,Delhi,New Delhi,Post Graduate,1/30/2001,1/23/2023,,Operations,Operations Manager,1056527,Needs Improvement
+EMP0168,Nisha,Verma,Female,Karnataka,Mysuru,10+2,2/4/1995,3/23/2020,,Finance,Accountant,1170607,Good
+EMP0169,Rohan,Kumar,Male,Telangana,Hyderabad,10+2,8/15/1996,9/18/2016,,HR,HR Executive,588334,Good
+EMP0170,Neha,Jain,Female,Uttar Pradesh,Noida,Graduate,5/28/1989,2/14/2022,,Finance,Accountant,905383,Average
+EMP0171,Isha,Jain,Female,Delhi,New Delhi,Diploma,11/3/1988,5/22/2022,,Marketing,SEO Specialist,1133456,Excellent
+EMP0172,Aarav,Verma,Male,Maharashtra,Nagpur,Graduate,8/10/1999,5/13/2017,10/11/2024,Sales,Sales Executive,772230,Average
+EMP0173,Ankit,Patel,Male,Tamil Nadu,Coimbatore,Graduate,3/5/1995,10/26/2015,6/27/2017,HR,HR Manager,685810,Needs Improvement
+EMP0174,Riya,Mehta,Female,Gujarat,Ahmedabad,Graduate,2/10/2001,7/31/2018,,Sales,Sales Executive,1047615,Average
+EMP0175,Sneha,Jain,Female,Delhi,New Delhi,Diploma,6/19/1995,5/16/2016,,Sales,Sales Executive,397720,Excellent
+EMP0176,Vivaan,Agarwal,Male,Rajasthan,Udaipur,Diploma,8/1/1988,2/15/2024,,Operations,Operations Manager,449055,Good
+EMP0177,Kavya,Jain,Female,West Bengal,Kolkata,Graduate,2/27/1996,4/5/2015,4/7/2017,Sales,Sales Manager,502422,Good
+EMP0178,Nisha,Singh,Female,Maharashtra,Mumbai,Graduate,2/7/1996,9/13/2021,12/31/2025,Finance,Accountant,1138324,Excellent
+EMP0179,Pooja,Gupta,Female,Uttar Pradesh,Lucknow,Post Graduate,3/17/1993,7/5/2015,,IT,QA Engineer,839107,Good
+EMP0180,Neha,Jain,Female,Uttar Pradesh,Noida,Post Graduate,4/23/1996,1/19/2020,,Finance,Accountant,384913,Excellent
+EMP0181,Anjali,Singh,Female,Gujarat,Surat,Diploma,6/19/1989,10/3/2021,,Sales,Sales Executive,297504,Excellent
+EMP0182,Rohan,Singh,Male,West Bengal,Kolkata,Diploma,8/7/1998,10/12/2020,5/7/2023,Finance,Financial Analyst,420395,Needs Improvement
+EMP0183,Isha,Agarwal,Female,Madhya Pradesh,Bhopal,Post Graduate,11/23/2000,4/24/2021,,Sales,Sales Executive,636251,Average
+EMP0184,Arjun,Kumar,Male,Madhya Pradesh,Bhopal,10+2,5/22/1998,4/27/2020,4/18/2024,Marketing,Marketing Executive,1006442,Excellent
+EMP0185,Nisha,Patel,Female,Karnataka,Mysuru,Diploma,6/7/2003,8/20/2022,12/31/2025,IT,QA Engineer,984549,Excellent
+EMP0186,Karan,Sharma,Male,West Bengal,Kolkata,Post Graduate,5/25/1988,8/19/2019,12/1/2022,Sales,Sales Manager,1165215,Excellent
+EMP0187,Rohan,Jain,Male,Tamil Nadu,Coimbatore,Post Graduate,10/14/1996,3/24/2019,9/29/2023,HR,HR Manager,809024,Average
+EMP0188,Aditi,Singh,Female,Uttar Pradesh,Lucknow,Diploma,7/13/1990,2/16/2018,5/20/2025,Finance,Accountant,562071,Average
+EMP0189,Karan,Patel,Male,Gujarat,Surat,Graduate,7/28/1997,12/2/2023,12/31/2025,Finance,Accountant,851334,Needs Improvement
+EMP0190,Anjali,Singh,Female,Karnataka,Mysuru,10+2,6/15/1991,1/4/2023,,Finance,Financial Analyst,937836,Average
+EMP0191,Kavya,Mehta,Female,Tamil Nadu,Coimbatore,Graduate,1/30/1988,3/23/2016,,Marketing,Marketing Executive,504235,Excellent
+EMP0192,Sneha,Mehta,Female,Tamil Nadu,Chennai,10+2,4/9/1994,9/14/2018,,IT,QA Engineer,1058206,Good
+EMP0193,Aarav,Jain,Male,Karnataka,Mysuru,Post Graduate,9/17/1995,4/18/2022,7/12/2025,Finance,Financial Analyst,549279,Excellent
+EMP0194,Aditya,Malhotra,Male,Tamil Nadu,Chennai,Diploma,5/17/1994,11/22/2024,12/31/2025,IT,Data Analyst,1076236,Needs Improvement
+EMP0195,Rahul,Agarwal,Male,Maharashtra,Mumbai,Graduate,9/27/1997,10/4/2021,,Finance,Financial Analyst,726419,Needs Improvement
+EMP0196,Rohan,Jain,Male,West Bengal,Kolkata,Diploma,2/21/2003,4/6/2016,,HR,HR Manager,929776,Average
+EMP0197,Rahul,Sharma,Male,Gujarat,Surat,Diploma,12/8/1988,11/7/2021,,Sales,Sales Manager,790310,Average
+EMP0198,Aditya,Kumar,Male,Delhi,New Delhi,Diploma,9/17/1995,8/18/2018,5/30/2022,IT,Data Analyst,652206,Good
+EMP0199,Riya,Agarwal,Female,Gujarat,Surat,10+2,11/13/1990,5/1/2022,,Marketing,Marketing Executive,315142,Excellent
+EMP0200,Riya,Agarwal,Female,Karnataka,Mysuru,Graduate,6/25/2000,4/25/2016,6/23/2024,Finance,Financial Analyst,894481,Good
+EMP0201,Aman,Gupta,Male,West Bengal,Kolkata,Post Graduate,10/9/2001,10/17/2021,,Sales,Sales Manager,1044139,Good
+EMP0202,Aman,Malhotra,Male,Delhi,New Delhi,Graduate,10/2/1986,4/29/2021,,IT,QA Engineer,1196746,Good
+EMP0203,Nisha,Jain,Female,Karnataka,Bengaluru,Graduate,9/2/1996,12/15/2019,4/4/2022,Marketing,Marketing Executive,1001742,Needs Improvement
+EMP0204,Aditya,Jain,Male,West Bengal,Kolkata,Post Graduate,12/17/1987,10/3/2020,,Sales,Sales Executive,835941,Needs Improvement
+EMP0205,Ankit,Sharma,Male,Rajasthan,Udaipur,10+2,9/23/2001,6/11/2017,,IT,Software Engineer,694278,Average
+EMP0206,Aditya,Jain,Male,Maharashtra,Mumbai,Post Graduate,9/17/1985,3/21/2018,10/20/2023,HR,HR Executive,1053028,Needs Improvement
+EMP0207,Neha,Kumar,Female,West Bengal,Kolkata,Post Graduate,10/20/1986,8/28/2022,,HR,HR Manager,374395,Good
+EMP0208,Aditi,Kumar,Female,Telangana,Hyderabad,Diploma,9/22/2003,1/15/2015,,Finance,Financial Analyst,956215,Needs Improvement
+EMP0209,Aditi,Kumar,Female,Tamil Nadu,Chennai,Post Graduate,10/6/1992,9/27/2016,,HR,HR Executive,283782,Needs Improvement
+EMP0210,Isha,Sharma,Female,Tamil Nadu,Chennai,10+2,4/7/1987,8/29/2021,,Sales,Sales Executive,506622,Excellent
+EMP0211,Anjali,Patel,Female,Tamil Nadu,Chennai,10+2,2/22/1988,8/25/2020,,HR,HR Manager,855526,Average
+EMP0212,Aman,Agarwal,Male,Karnataka,Bengaluru,Post Graduate,9/28/1991,2/1/2018,,Operations,Operations Executive,906401,Needs Improvement
+EMP0213,Aditi,Patel,Female,Maharashtra,Pune,Post Graduate,8/17/2002,11/18/2020,,Marketing,SEO Specialist,678090,Good
+EMP0214,Ankit,Kumar,Male,Karnataka,Mysuru,Diploma,1/21/1990,5/16/2018,,Sales,Sales Executive,839704,Needs Improvement
+EMP0215,Pooja,Jain,Female,Telangana,Hyderabad,Post Graduate,6/13/1990,11/10/2017,,Finance,Accountant,721635,Average
+EMP0216,Aditya,Jain,Male,Tamil Nadu,Chennai,Graduate,6/17/1993,7/22/2022,,Operations,Operations Executive,1166057,Excellent
+EMP0217,Karan,Malhotra,Male,Telangana,Hyderabad,Post Graduate,9/8/1989,10/1/2024,,Finance,Accountant,472096,Good
+EMP0218,Arjun,Patel,Male,Tamil Nadu,Chennai,Post Graduate,5/15/1990,3/11/2021,,Finance,Financial Analyst,738899,Average
+EMP0219,Ankit,Agarwal,Male,Gujarat,Surat,Post Graduate,3/19/1987,1/2/2024,,Finance,Accountant,638712,Average
+EMP0220,Pooja,Sharma,Female,Madhya Pradesh,Indore,Diploma,5/13/1985,12/4/2017,,Operations,Operations Manager,559531,Good
+EMP0221,Karan,Singh,Male,Tamil Nadu,Coimbatore,Diploma,3/14/1996,3/5/2021,12/16/2025,Finance,Financial Analyst,1008705,Needs Improvement
+EMP0222,Riya,Gupta,Female,Gujarat,Ahmedabad,Diploma,2/26/2001,2/16/2021,,HR,HR Executive,799395,Excellent
+EMP0223,Aditya,Sharma,Male,Maharashtra,Pune,Diploma,11/25/2003,1/27/2022,,IT,QA Engineer,408366,Excellent
+EMP0224,Karan,Jain,Male,West Bengal,Kolkata,10+2,11/10/1998,2/25/2022,12/31/2025,Sales,Sales Manager,266495,Excellent
+EMP0225,Aditi,Jain,Female,Rajasthan,Jaipur,10+2,11/15/1996,2/6/2023,,Operations,Operations Manager,267975,Needs Improvement
+EMP0226,Rahul,Verma,Male,Delhi,New Delhi,Diploma,4/22/1989,12/13/2021,,Finance,Financial Analyst,530310,Needs Improvement
+EMP0227,Aditya,Singh,Male,Rajasthan,Udaipur,Diploma,8/21/2000,7/14/2017,,Marketing,Marketing Executive,935491,Excellent
+EMP0228,Aditya,Kumar,Male,Rajasthan,Udaipur,Post Graduate,4/5/1986,2/21/2022,,Marketing,Marketing Executive,336702,Needs Improvement
+EMP0229,Pooja,Singh,Female,Madhya Pradesh,Indore,10+2,2/26/1990,5/15/2017,,Sales,Sales Manager,298823,Excellent
+EMP0230,Siddharth,Jain,Male,Madhya Pradesh,Indore,Diploma,1/21/1992,3/6/2015,,Operations,Operations Executive,1038795,Needs Improvement
+EMP0231,Aditya,Agarwal,Male,Karnataka,Bengaluru,Post Graduate,3/9/2000,1/23/2021,,Sales,Sales Executive,1078897,Excellent
+EMP0232,Sneha,Singh,Female,Maharashtra,Mumbai,Post Graduate,3/17/1990,5/28/2024,,Finance,Financial Analyst,1061131,Average
+EMP0233,Aarav,Agarwal,Male,West Bengal,Kolkata,Diploma,12/24/1992,3/15/2021,12/31/2025,Sales,Sales Executive,962711,Needs Improvement
+EMP0234,Aditya,Malhotra,Male,Uttar Pradesh,Noida,10+2,11/4/1986,1/2/2018,,Sales,Sales Executive,1025584,Needs Improvement
+EMP0235,Priya,Singh,Female,Delhi,New Delhi,10+2,12/1/1991,12/27/2019,,Finance,Accountant,388943,Excellent
+EMP0236,Rahul,Kumar,Male,West Bengal,Kolkata,10+2,8/4/1985,1/3/2016,,Operations,Operations Executive,875920,Average
+EMP0237,Anjali,Sharma,Female,Uttar Pradesh,Lucknow,Post Graduate,6/23/2002,12/13/2015,,HR,HR Executive,968605,Needs Improvement
+EMP0238,Rahul,Gupta,Male,Uttar Pradesh,Lucknow,Graduate,1/23/1996,8/20/2016,,HR,HR Manager,539366,Needs Improvement
+EMP0239,Ankit,Patel,Male,Delhi,New Delhi,Graduate,7/14/1990,1/31/2023,12/31/2025,Sales,Sales Executive,730102,Excellent
+EMP0240,Rohan,Agarwal,Male,Maharashtra,Pune,Graduate,11/17/2003,12/15/2021,,Finance,Financial Analyst,600996,Needs Improvement
+EMP0241,Isha,Gupta,Female,Uttar Pradesh,Lucknow,Diploma,9/30/1995,7/10/2018,,Sales,Sales Manager,555605,Needs Improvement
+EMP0242,Nisha,Mehta,Female,Gujarat,Surat,Graduate,4/25/2003,10/24/2023,,Finance,Accountant,841240,Good
+EMP0243,Nisha,Jain,Female,Karnataka,Bengaluru,Post Graduate,11/20/2000,5/8/2017,,Finance,Accountant,1108747,Needs Improvement
+EMP0244,Kavya,Gupta,Female,Uttar Pradesh,Noida,Graduate,10/10/1999,9/23/2016,,Sales,Sales Executive,720880,Needs Improvement
+EMP0245,Nisha,Kumar,Female,Telangana,Hyderabad,10+2,9/26/2002,1/12/2019,,Operations,Operations Executive,364682,Good
+EMP0246,Neha,Gupta,Female,Madhya Pradesh,Indore,Post Graduate,11/18/2001,9/20/2018,7/18/2024,IT,Software Engineer,353396,Average
+EMP0247,Aman,Jain,Male,Telangana,Hyderabad,Post Graduate,5/23/1993,5/22/2019,,Marketing,Marketing Executive,611724,Excellent
+EMP0248,Kavya,Verma,Female,Uttar Pradesh,Lucknow,10+2,8/9/1987,4/28/2024,,Finance,Financial Analyst,609731,Needs Improvement
+EMP0249,Karan,Jain,Male,West Bengal,Kolkata,Post Graduate,3/11/1987,11/30/2019,,Finance,Accountant,564849,Excellent
+EMP0250,Arjun,Sharma,Male,Gujarat,Ahmedabad,Diploma,8/11/2001,9/26/2017,,HR,HR Executive,597067,Needs Improvement
+EMP0251,Riya,Mehta,Female,Rajasthan,Jaipur,Diploma,5/14/1999,5/16/2022,,Sales,Sales Executive,1023207,Good
+EMP0252,Riya,Malhotra,Female,Rajasthan,Udaipur,10+2,10/22/2000,5/29/2017,,Finance,Accountant,855393,Excellent
+EMP0253,Aditi,Gupta,Female,Gujarat,Surat,Diploma,4/7/1995,4/11/2016,3/20/2020,Marketing,SEO Specialist,803349,Average
+EMP0254,Isha,Kumar,Female,Madhya Pradesh,Bhopal,10+2,10/21/1992,12/12/2018,,Operations,Operations Executive,1103266,Average
+EMP0255,Isha,Malhotra,Female,Delhi,New Delhi,Graduate,8/24/1987,9/4/2017,2/5/2022,IT,Software Engineer,641439,Good
+EMP0256,Sneha,Kumar,Female,Rajasthan,Jaipur,Post Graduate,6/28/1994,1/30/2017,,Marketing,Marketing Executive,831868,Good
+EMP0257,Kavya,Agarwal,Female,Karnataka,Bengaluru,Graduate,11/20/2003,1/22/2020,,IT,Data Analyst,260048,Needs Improvement
+EMP0258,Rohan,Mehta,Male,Rajasthan,Udaipur,Post Graduate,5/11/2000,7/7/2020,,Marketing,SEO Specialist,762438,Good
+EMP0259,Aditya,Malhotra,Male,Maharashtra,Mumbai,Graduate,9/25/1985,1/30/2018,8/7/2021,Operations,Operations Manager,426379,Needs Improvement
+EMP0260,Nisha,Patel,Female,Telangana,Hyderabad,10+2,1/4/1991,9/10/2023,,Finance,Accountant,1046922,Needs Improvement
+EMP0261,Aditi,Mehta,Female,Rajasthan,Jaipur,Diploma,9/5/1991,10/23/2024,,Sales,Sales Manager,615509,Excellent
+EMP0262,Riya,Verma,Female,Tamil Nadu,Chennai,Graduate,12/10/2000,11/4/2021,,Sales,Sales Executive,896081,Good
+EMP0263,Karan,Mehta,Male,Maharashtra,Nagpur,Graduate,12/9/1996,2/25/2018,,Operations,Operations Executive,589375,Average
+EMP0264,Ankit,Malhotra,Male,Uttar Pradesh,Noida,Diploma,10/28/2001,10/24/2023,12/31/2025,IT,Data Analyst,1159165,Good
+EMP0265,Rohan,Mehta,Male,Karnataka,Mysuru,Diploma,1/29/2002,6/17/2024,,Sales,Sales Executive,855474,Average
+EMP0266,Pooja,Kumar,Female,West Bengal,Kolkata,10+2,1/14/1994,10/12/2020,,Marketing,SEO Specialist,726782,Needs Improvement
+EMP0267,Priya,Malhotra,Female,Maharashtra,Nagpur,10+2,5/24/2001,2/21/2020,12/31/2025,Marketing,SEO Specialist,1141401,Excellent
+EMP0268,Aditi,Kumar,Female,Tamil Nadu,Coimbatore,Diploma,2/5/1996,1/4/2018,,Finance,Financial Analyst,823896,Good
+EMP0269,Nisha,Patel,Female,Gujarat,Ahmedabad,10+2,3/27/1987,1/8/2022,,IT,Software Engineer,1149312,Good
+EMP0270,Riya,Patel,Female,Maharashtra,Pune,Diploma,6/11/2000,6/24/2016,,HR,HR Manager,347874,Average
+EMP0271,Siddharth,Verma,Male,Gujarat,Ahmedabad,10+2,11/21/1993,1/6/2022,,Marketing,Marketing Executive,700081,Excellent
+EMP0272,Arjun,Sharma,Male,Tamil Nadu,Coimbatore,10+2,12/24/1987,8/28/2021,,Operations,Operations Manager,259738,Excellent
+EMP0273,Priya,Verma,Female,Rajasthan,Jaipur,Post Graduate,8/4/1986,7/26/2017,,IT,QA Engineer,1095106,Excellent
+EMP0274,Arjun,Singh,Male,Gujarat,Surat,Diploma,8/2/1993,9/4/2023,,Marketing,Marketing Executive,321734,Excellent
+EMP0275,Isha,Gupta,Female,West Bengal,Kolkata,Diploma,2/2/1999,5/23/2023,,Sales,Sales Manager,1151736,Good
+EMP0276,Aditya,Verma,Male,Karnataka,Bengaluru,Post Graduate,11/19/1992,10/25/2019,,HR,HR Executive,540421,Excellent
+EMP0277,Aman,Jain,Male,Madhya Pradesh,Bhopal,10+2,10/8/1999,10/27/2024,,HR,HR Executive,1034170,Needs Improvement
+EMP0278,Ankit,Sharma,Male,Tamil Nadu,Coimbatore,Post Graduate,7/13/1987,9/14/2017,,Marketing,Marketing Executive,803948,Excellent
+EMP0279,Neha,Singh,Female,Karnataka,Mysuru,Post Graduate,3/13/1993,2/15/2021,,Sales,Sales Executive,267500,Excellent
+EMP0280,Aarav,Agarwal,Male,Tamil Nadu,Chennai,10+2,9/14/2002,6/19/2019,,Finance,Financial Analyst,694150,Needs Improvement
+EMP0281,Aditya,Jain,Male,Telangana,Hyderabad,Graduate,11/16/1986,6/23/2018,,Operations,Operations Executive,1097312,Good
+EMP0282,Aditi,Singh,Female,Rajasthan,Jaipur,Graduate,9/2/2000,11/27/2019,,IT,Software Engineer,340400,Needs Improvement
+EMP0283,Arjun,Patel,Male,Madhya Pradesh,Indore,Graduate,12/10/1999,4/26/2023,12/31/2025,IT,Software Engineer,992287,Good
+EMP0284,Aarav,Gupta,Male,West Bengal,Kolkata,Graduate,9/29/1988,3/4/2019,,Marketing,SEO Specialist,1018538,Excellent
+EMP0285,Aarav,Singh,Male,Rajasthan,Udaipur,10+2,11/25/1990,12/27/2022,,Marketing,Marketing Executive,770248,Needs Improvement
+EMP0286,Sneha,Singh,Female,Maharashtra,Pune,Diploma,4/1/1993,10/6/2016,,IT,QA Engineer,956866,Excellent
+EMP0287,Aman,Jain,Male,Maharashtra,Mumbai,10+2,6/27/1990,7/8/2015,,Finance,Financial Analyst,407375,Good
+EMP0288,Vivaan,Jain,Male,Rajasthan,Jaipur,Graduate,7/27/1990,9/1/2019,,Finance,Accountant,849298,Average
+EMP0289,Arjun,Jain,Male,Maharashtra,Mumbai,Diploma,1/16/2003,10/13/2020,,Sales,Sales Executive,1169591,Needs Improvement
+EMP0290,Ankit,Agarwal,Male,Gujarat,Ahmedabad,Post Graduate,3/7/1985,2/20/2019,5/21/2022,Finance,Financial Analyst,1025501,Good
+EMP0291,Riya,Singh,Female,Madhya Pradesh,Bhopal,Diploma,6/6/2001,2/16/2021,,HR,HR Executive,679954,Excellent
+EMP0292,Aman,Jain,Male,Gujarat,Ahmedabad,Graduate,1/12/1985,7/6/2023,,Marketing,SEO Specialist,358998,Good
+EMP0293,Sneha,Mehta,Female,Rajasthan,Udaipur,10+2,3/12/1988,12/24/2022,,IT,Software Engineer,492716,Needs Improvement
+EMP0294,Neha,Patel,Female,Delhi,New Delhi,Diploma,4/18/1999,3/12/2024,,IT,QA Engineer,845403,Excellent
+EMP0295,Pooja,Gupta,Female,Tamil Nadu,Coimbatore,Graduate,1/25/1992,12/25/2023,12/31/2025,Marketing,SEO Specialist,583507,Needs Improvement
+EMP0296,Siddharth,Mehta,Male,Delhi,New Delhi,Diploma,6/30/2002,8/21/2023,,IT,Software Engineer,360790,Good
+EMP0297,Riya,Patel,Female,Gujarat,Surat,10+2,1/8/1997,1/7/2019,,Sales,Sales Manager,735854,Average
+EMP0298,Arjun,Verma,Male,Karnataka,Mysuru,10+2,10/28/1989,5/16/2024,,HR,HR Executive,995702,Good
+EMP0299,Neha,Kumar,Female,Telangana,Hyderabad,Graduate,11/2/1990,3/13/2024,12/31/2025,IT,Data Analyst,1146114,Needs Improvement
+EMP0300,Aditi,Jain,Female,Tamil Nadu,Chennai,Post Graduate,4/15/1987,1/6/2024,12/31/2025,IT,Software Engineer,314664,Good
+EMP0301,Anjali,Singh,Female,Delhi,New Delhi,10+2,6/28/1985,9/22/2015,,Marketing,SEO Specialist,1098611,Good
+EMP0302,Aditya,Singh,Male,Delhi,New Delhi,Post Graduate,2/19/1986,11/19/2016,,Sales,Sales Manager,770226,Excellent
+EMP0303,Anjali,Kumar,Female,Karnataka,Mysuru,Diploma,3/14/1989,1/31/2018,,Sales,Sales Executive,286332,Good
+EMP0304,Ankit,Patel,Male,Rajasthan,Udaipur,10+2,12/20/1986,2/19/2018,,HR,HR Manager,459146,Good
+EMP0305,Aditi,Sharma,Female,Rajasthan,Udaipur,Post Graduate,3/19/1997,10/6/2023,,Finance,Financial Analyst,657247,Average
+EMP0306,Rahul,Sharma,Male,Gujarat,Ahmedabad,10+2,3/9/2003,9/24/2023,,IT,Data Analyst,805149,Average
+EMP0307,Nisha,Mehta,Female,Karnataka,Bengaluru,Diploma,9/26/1999,9/14/2017,,Operations,Operations Executive,1051164,Good
+EMP0308,Nisha,Kumar,Female,Gujarat,Ahmedabad,Diploma,4/22/1990,8/23/2021,,Marketing,SEO Specialist,870298,Excellent
+EMP0309,Neha,Malhotra,Female,Madhya Pradesh,Indore,Diploma,10/8/2003,2/2/2024,,Operations,Operations Manager,434084,Needs Improvement
+EMP0310,Vivaan,Verma,Male,Maharashtra,Mumbai,Diploma,6/13/1985,11/26/2020,,IT,Data Analyst,893966,Good
+EMP0311,Rohan,Singh,Male,Karnataka,Mysuru,10+2,6/29/1985,8/28/2016,3/26/2024,Marketing,Marketing Executive,1061982,Excellent
+EMP0312,Sneha,Singh,Female,Delhi,New Delhi,Post Graduate,2/22/1998,2/18/2016,11/26/2020,Finance,Financial Analyst,393079,Good
+EMP0313,Pooja,Patel,Female,Gujarat,Ahmedabad,Graduate,1/3/1990,6/19/2022,,HR,HR Manager,571727,Average
+EMP0314,Rohan,Gupta,Male,Maharashtra,Nagpur,Post Graduate,4/16/2002,5/13/2021,9/22/2022,HR,HR Manager,1098095,Good
+EMP0315,Nisha,Verma,Female,West Bengal,Kolkata,Graduate,9/19/2001,11/15/2015,7/16/2019,Finance,Financial Analyst,426042,Excellent
+EMP0316,Priya,Patel,Female,Maharashtra,Pune,Diploma,8/7/1990,10/10/2022,,Finance,Financial Analyst,1075250,Excellent
+EMP0317,Aarav,Sharma,Male,Rajasthan,Udaipur,Post Graduate,9/24/1988,12/2/2024,,Sales,Sales Manager,618292,Needs Improvement
+EMP0318,Arjun,Patel,Male,Madhya Pradesh,Indore,Diploma,2/14/1995,10/29/2015,3/13/2017,Finance,Accountant,584198,Average
+EMP0319,Arjun,Verma,Male,Gujarat,Ahmedabad,Post Graduate,8/11/1988,3/18/2023,1/18/2025,Operations,Operations Executive,604366,Needs Improvement
+EMP0320,Aarav,Kumar,Male,Karnataka,Mysuru,Diploma,3/15/1986,2/19/2016,11/5/2020,HR,HR Executive,679161,Average
+EMP0321,Ankit,Agarwal,Male,Tamil Nadu,Chennai,10+2,10/24/1993,5/30/2021,,Sales,Sales Executive,307152,Average
+EMP0322,Aarav,Kumar,Male,Delhi,New Delhi,Post Graduate,6/24/1989,2/2/2016,5/17/2017,HR,HR Executive,919191,Average
+EMP0323,Aditya,Patel,Male,Delhi,New Delhi,Post Graduate,7/25/1995,6/26/2020,6/15/2024,IT,QA Engineer,820557,Needs Improvement
+EMP0324,Rahul,Singh,Male,Rajasthan,Udaipur,Diploma,12/31/1994,7/2/2015,,Sales,Sales Manager,526195,Good
+EMP0325,Siddharth,Malhotra,Male,Maharashtra,Mumbai,10+2,12/4/1986,6/29/2022,,Operations,Operations Manager,1043202,Good
+EMP0326,Aditi,Sharma,Female,Rajasthan,Udaipur,Post Graduate,11/5/1997,11/20/2024,,Sales,Sales Manager,332790,Needs Improvement
+EMP0327,Vivaan,Jain,Male,Madhya Pradesh,Indore,10+2,12/25/2001,1/14/2020,,HR,HR Executive,1097732,Good
+EMP0328,Rohan,Sharma,Male,Rajasthan,Jaipur,Post Graduate,7/13/1989,3/23/2024,,HR,HR Manager,585281,Excellent
+EMP0329,Aditya,Kumar,Male,Telangana,Hyderabad,Graduate,3/13/1991,10/29/2020,12/31/2025,IT,QA Engineer,903323,Needs Improvement
+EMP0330,Arjun,Kumar,Male,Karnataka,Bengaluru,10+2,5/16/1987,4/23/2021,6/10/2023,Finance,Financial Analyst,1170538,Needs Improvement
+EMP0331,Siddharth,Kumar,Male,West Bengal,Kolkata,10+2,11/11/1988,2/2/2018,,HR,HR Manager,290666,Needs Improvement
+EMP0332,Priya,Mehta,Female,Maharashtra,Nagpur,Post Graduate,1/10/1991,3/6/2019,,Finance,Financial Analyst,576053,Average
+EMP0333,Kavya,Verma,Female,Tamil Nadu,Chennai,Graduate,9/6/2001,12/20/2019,,Finance,Financial Analyst,884366,Excellent
+EMP0334,Karan,Patel,Male,Tamil Nadu,Coimbatore,Post Graduate,1/13/2002,10/16/2020,,IT,QA Engineer,1079937,Good
+EMP0335,Aditya,Agarwal,Male,Telangana,Hyderabad,Diploma,7/4/2002,7/18/2024,12/31/2025,Operations,Operations Executive,432176,Good
+EMP0336,Karan,Sharma,Male,Tamil Nadu,Chennai,Post Graduate,2/19/1986,1/16/2019,,Finance,Financial Analyst,1113508,Needs Improvement
+EMP0337,Sneha,Kumar,Female,Delhi,New Delhi,Diploma,5/10/1993,6/25/2020,,Sales,Sales Executive,1162765,Needs Improvement
+EMP0338,Nisha,Jain,Female,Gujarat,Surat,Diploma,10/16/2003,11/25/2017,,Finance,Accountant,655343,Excellent
+EMP0339,Rahul,Malhotra,Male,Tamil Nadu,Chennai,Diploma,3/14/2000,4/26/2017,5/2/2021,Marketing,SEO Specialist,788214,Excellent
+EMP0340,Aarav,Patel,Male,Karnataka,Bengaluru,10+2,1/8/1990,10/30/2017,8/25/2025,Finance,Financial Analyst,694393,Needs Improvement
+EMP0341,Neha,Patel,Female,Uttar Pradesh,Noida,Post Graduate,10/12/1991,8/5/2022,,Operations,Operations Manager,862879,Excellent
+EMP0342,Aarav,Jain,Male,Gujarat,Surat,Graduate,5/8/2000,3/18/2016,,IT,Data Analyst,539913,Average
+EMP0343,Siddharth,Agarwal,Male,Uttar Pradesh,Noida,Diploma,8/8/1996,8/2/2023,,IT,QA Engineer,673727,Average
+EMP0344,Rohan,Sharma,Male,West Bengal,Kolkata,Graduate,5/22/1994,7/16/2019,,Marketing,Marketing Executive,861344,Good
+EMP0345,Priya,Mehta,Female,Telangana,Hyderabad,Graduate,5/18/1996,5/14/2018,,Marketing,Marketing Executive,558054,Excellent
+EMP0346,Kavya,Gupta,Female,Uttar Pradesh,Noida,Graduate,9/6/1999,1/1/2016,6/29/2019,Finance,Accountant,1030360,Average
+EMP0347,Pooja,Singh,Female,Gujarat,Surat,Graduate,5/28/1995,7/18/2024,12/31/2025,Sales,Sales Executive,1158479,Excellent
+EMP0348,Kavya,Mehta,Female,Telangana,Hyderabad,Post Graduate,11/19/1996,5/7/2018,12/24/2023,IT,Software Engineer,394037,Good
+EMP0349,Priya,Kumar,Female,Madhya Pradesh,Bhopal,Diploma,2/5/1992,9/2/2024,,IT,Data Analyst,598787,Good
+EMP0350,Priya,Sharma,Female,Maharashtra,Pune,Graduate,9/12/1989,7/15/2023,,Operations,Operations Executive,763358,Excellent
+EMP0351,Rohan,Malhotra,Male,Rajasthan,Udaipur,Post Graduate,8/16/1994,5/9/2020,,IT,Software Engineer,809711,Good
+EMP0352,Neha,Sharma,Female,Gujarat,Ahmedabad,10+2,3/6/2000,1/17/2015,1/26/2023,Marketing,Marketing Executive,487256,Average
+EMP0353,Ankit,Gupta,Male,Delhi,New Delhi,Graduate,9/30/1988,9/25/2015,,Finance,Financial Analyst,728073,Average
+EMP0354,Pooja,Gupta,Female,Gujarat,Surat,Graduate,10/28/2001,2/10/2017,12/17/2019,Sales,Sales Executive,489513,Good
+EMP0355,Aarav,Malhotra,Male,Telangana,Hyderabad,10+2,3/23/1993,12/22/2022,,Sales,Sales Manager,1058713,Excellent
+EMP0356,Isha,Sharma,Female,Delhi,New Delhi,10+2,6/21/2000,4/19/2016,12/21/2021,Sales,Sales Manager,379598,Average
+EMP0357,Kavya,Gupta,Female,Tamil Nadu,Chennai,Graduate,6/10/1994,6/3/2022,,Marketing,SEO Specialist,903050,Good
+EMP0358,Pooja,Verma,Female,Telangana,Hyderabad,Graduate,7/23/1987,10/20/2023,12/28/2025,Sales,Sales Executive,888584,Good
+EMP0359,Siddharth,Jain,Male,Tamil Nadu,Coimbatore,Post Graduate,8/17/1991,10/18/2016,,Operations,Operations Manager,467782,Needs Improvement
+EMP0360,Aarav,Sharma,Male,Delhi,New Delhi,Post Graduate,5/6/1988,1/4/2016,9/29/2022,IT,QA Engineer,1008724,Excellent
+EMP0361,Siddharth,Mehta,Male,West Bengal,Kolkata,Graduate,6/1/1995,7/25/2015,,HR,HR Executive,1143647,Average
+EMP0362,Neha,Singh,Female,Rajasthan,Jaipur,10+2,1/3/2002,12/25/2024,,IT,Software Engineer,945578,Good
+EMP0363,Priya,Singh,Female,West Bengal,Kolkata,10+2,5/11/1993,2/21/2024,12/31/2025,HR,HR Executive,670245,Needs Improvement
+EMP0364,Riya,Agarwal,Female,Rajasthan,Udaipur,Post Graduate,7/22/1999,12/8/2024,12/31/2025,IT,Software Engineer,979987,Excellent
+EMP0365,Rahul,Verma,Male,Rajasthan,Udaipur,Post Graduate,1/24/1989,11/8/2021,,Finance,Accountant,1154476,Good
+EMP0366,Kavya,Patel,Female,Delhi,New Delhi,Post Graduate,1/12/1986,9/17/2015,,Marketing,SEO Specialist,262960,Good
+EMP0367,Priya,Jain,Female,Telangana,Hyderabad,Post Graduate,11/4/1999,2/24/2023,12/31/2025,Sales,Sales Manager,945951,Needs Improvement
+EMP0368,Rohan,Jain,Male,Madhya Pradesh,Indore,10+2,6/7/1999,10/4/2016,,Sales,Sales Manager,1161648,Good
+EMP0369,Aditya,Patel,Male,Gujarat,Ahmedabad,Graduate,3/29/1991,7/26/2015,,HR,HR Manager,672866,Good
+EMP0370,Aditya,Patel,Male,West Bengal,Kolkata,10+2,3/7/1996,1/6/2020,,IT,Data Analyst,1031439,Excellent
+EMP0371,Arjun,Kumar,Male,Rajasthan,Jaipur,10+2,7/11/2003,1/8/2016,,Operations,Operations Manager,1183348,Good
+EMP0372,Riya,Singh,Female,Gujarat,Ahmedabad,Diploma,12/9/2003,2/5/2020,,Operations,Operations Manager,1001470,Average
+EMP0373,Riya,Verma,Female,Delhi,New Delhi,10+2,8/28/1992,12/25/2018,,Finance,Financial Analyst,986201,Excellent
+EMP0374,Vivaan,Gupta,Male,West Bengal,Kolkata,Post Graduate,5/27/1987,11/7/2017,,HR,HR Executive,376611,Needs Improvement
+EMP0375,Karan,Patel,Male,Tamil Nadu,Coimbatore,10+2,12/25/2001,8/25/2019,3/2/2021,Marketing,Marketing Executive,1059652,Needs Improvement
+EMP0376,Riya,Malhotra,Female,Telangana,Hyderabad,Post Graduate,2/5/1985,12/12/2020,,Operations,Operations Manager,1129562,Needs Improvement
+EMP0377,Sneha,Gupta,Female,Madhya Pradesh,Indore,Diploma,4/29/1987,5/6/2019,,Operations,Operations Manager,778597,Needs Improvement
+EMP0378,Pooja,Malhotra,Female,Tamil Nadu,Coimbatore,Post Graduate,9/9/1992,4/19/2018,,HR,HR Executive,682794,Average
+EMP0379,Aditi,Singh,Female,Telangana,Hyderabad,Diploma,9/14/1989,12/31/2021,,Marketing,SEO Specialist,955034,Good
+EMP0380,Rahul,Jain,Male,Telangana,Hyderabad,10+2,1/24/2002,12/13/2018,,Sales,Sales Manager,956995,Average
+EMP0381,Pooja,Sharma,Female,Telangana,Hyderabad,10+2,7/18/1993,8/18/2016,,Marketing,Marketing Executive,459612,Average
+EMP0382,Rahul,Agarwal,Male,Uttar Pradesh,Noida,10+2,6/28/2000,10/18/2023,,HR,HR Executive,626105,Needs Improvement
+EMP0383,Arjun,Malhotra,Male,Telangana,Hyderabad,Post Graduate,5/1/1990,9/23/2020,12/14/2024,Marketing,Marketing Executive,650118,Needs Improvement
+EMP0384,Pooja,Singh,Female,Telangana,Hyderabad,10+2,9/6/2001,10/26/2017,2/3/2021,Operations,Operations Manager,1120300,Good
+EMP0385,Neha,Malhotra,Female,Telangana,Hyderabad,Diploma,8/7/1991,1/13/2020,,Marketing,Marketing Executive,446059,Good
+EMP0386,Sneha,Verma,Female,Rajasthan,Jaipur,Post Graduate,4/6/1991,3/29/2021,,HR,HR Executive,862353,Average
+EMP0387,Aarav,Singh,Male,West Bengal,Kolkata,10+2,6/13/1988,8/14/2018,12/31/2025,IT,QA Engineer,895512,Average
+EMP0388,Kavya,Malhotra,Female,Telangana,Hyderabad,10+2,8/2/2002,12/8/2022,,Operations,Operations Executive,442800,Excellent
+EMP0389,Sneha,Gupta,Female,Rajasthan,Udaipur,10+2,11/2/1992,6/25/2017,,Marketing,SEO Specialist,597148,Average
+EMP0390,Ankit,Mehta,Male,Madhya Pradesh,Bhopal,10+2,7/29/1987,7/2/2022,,Sales,Sales Executive,1198433,Good
+EMP0391,Vivaan,Singh,Male,Rajasthan,Jaipur,Post Graduate,10/3/1990,1/21/2021,3/24/2025,IT,QA Engineer,1112043,Average
+EMP0392,Sneha,Jain,Female,West Bengal,Kolkata,10+2,8/26/1991,4/22/2022,,Finance,Accountant,350617,Good
+EMP0393,Aditi,Jain,Female,Maharashtra,Nagpur,10+2,9/23/1989,7/8/2022,,HR,HR Manager,1126258,Excellent
+EMP0394,Karan,Jain,Male,Rajasthan,Jaipur,Diploma,7/14/1985,2/24/2020,11/12/2024,IT,Software Engineer,326806,Excellent
+EMP0395,Rahul,Agarwal,Male,Telangana,Hyderabad,Diploma,10/20/1990,7/28/2019,12/2/2024,Sales,Sales Manager,704059,Average
+EMP0396,Aarav,Kumar,Male,Delhi,New Delhi,10+2,12/15/2001,5/14/2023,,IT,QA Engineer,1139455,Excellent
+EMP0397,Neha,Jain,Female,Delhi,New Delhi,Graduate,8/9/1998,12/21/2015,2/16/2020,Sales,Sales Manager,664306,Excellent
+EMP0398,Kavya,Gupta,Female,Telangana,Hyderabad,Diploma,10/1/2001,5/21/2019,,Finance,Accountant,562534,Average
+EMP0399,Aarav,Jain,Male,Telangana,Hyderabad,10+2,12/9/1985,1/21/2015,6/23/2022,Operations,Operations Manager,813244,Excellent
+EMP0400,Ankit,Mehta,Male,Gujarat,Ahmedabad,Post Graduate,6/28/1999,7/19/2024,,HR,HR Executive,442930,Good
+EMP0401,Isha,Agarwal,Female,Tamil Nadu,Chennai,Diploma,1/19/2000,12/20/2023,,IT,QA Engineer,733671,Excellent
+EMP0402,Ankit,Verma,Male,Uttar Pradesh,Noida,Diploma,4/11/2001,7/6/2021,,Finance,Financial Analyst,384443,Good
+EMP0403,Arjun,Agarwal,Male,Madhya Pradesh,Indore,Diploma,2/17/1992,6/13/2020,,Finance,Financial Analyst,977143,Good
+EMP0404,Nisha,Malhotra,Female,Gujarat,Surat,Post Graduate,10/13/1988,1/20/2015,7/25/2019,HR,HR Executive,996794,Needs Improvement
+EMP0405,Siddharth,Singh,Male,Karnataka,Mysuru,Post Graduate,5/20/1995,12/30/2019,,Finance,Financial Analyst,828469,Excellent
+EMP0406,Rahul,Malhotra,Male,Delhi,New Delhi,Diploma,1/30/1997,3/15/2017,2/25/2021,Marketing,Marketing Executive,1012760,Excellent
+EMP0407,Aarav,Jain,Male,Maharashtra,Nagpur,Post Graduate,4/3/2002,8/13/2021,,IT,QA Engineer,523276,Needs Improvement
+EMP0408,Rohan,Singh,Male,Rajasthan,Jaipur,Graduate,1/2/1988,3/18/2020,,Operations,Operations Executive,666059,Average
+EMP0409,Sneha,Sharma,Female,Tamil Nadu,Chennai,Diploma,1/4/1995,10/14/2016,,Operations,Operations Executive,1021667,Needs Improvement
+EMP0410,Neha,Sharma,Female,Tamil Nadu,Coimbatore,Diploma,5/30/1986,12/18/2017,,HR,HR Executive,951062,Good
+EMP0411,Sneha,Singh,Female,Rajasthan,Udaipur,Post Graduate,1/16/1986,6/13/2015,,IT,QA Engineer,796699,Average
+EMP0412,Siddharth,Malhotra,Male,Telangana,Hyderabad,Post Graduate,8/30/1999,3/31/2019,5/4/2024,Operations,Operations Executive,791760,Average
+EMP0413,Anjali,Mehta,Female,Telangana,Hyderabad,Graduate,5/1/2003,9/24/2024,,Sales,Sales Manager,1180267,Excellent
+EMP0414,Sneha,Gupta,Female,West Bengal,Kolkata,Diploma,9/24/1986,10/8/2020,12/31/2025,Finance,Accountant,407538,Good
+EMP0415,Rahul,Singh,Male,Madhya Pradesh,Indore,Diploma,4/20/1994,2/5/2024,,Marketing,Marketing Executive,754906,Needs Improvement
+EMP0416,Kavya,Mehta,Female,Madhya Pradesh,Indore,Post Graduate,7/3/1985,9/25/2017,,HR,HR Executive,391268,Excellent
+EMP0417,Nisha,Gupta,Female,Maharashtra,Mumbai,Graduate,1/14/1989,10/17/2020,12/31/2025,Operations,Operations Executive,1171183,Average
+EMP0418,Aditya,Mehta,Male,West Bengal,Kolkata,Post Graduate,10/29/1988,6/17/2017,1/24/2023,Operations,Operations Executive,1083215,Good
+EMP0419,Isha,Jain,Female,Uttar Pradesh,Noida,Graduate,3/4/1995,9/9/2021,,IT,Software Engineer,646583,Needs Improvement
+EMP0420,Rohan,Verma,Male,Maharashtra,Mumbai,Post Graduate,7/16/2003,9/4/2016,,IT,Software Engineer,748985,Excellent
+EMP0421,Aditi,Jain,Female,Delhi,New Delhi,Post Graduate,10/16/1999,6/17/2016,,Operations,Operations Executive,1190540,Needs Improvement
+EMP0422,Sneha,Kumar,Female,Gujarat,Ahmedabad,Post Graduate,2/23/1990,12/31/2023,,Sales,Sales Manager,867661,Excellent
+EMP0423,Pooja,Gupta,Female,Uttar Pradesh,Lucknow,Diploma,11/18/1986,3/6/2018,,Operations,Operations Manager,520328,Good
+EMP0424,Aarav,Sharma,Male,Madhya Pradesh,Indore,10+2,5/31/1993,5/5/2022,8/23/2025,Marketing,SEO Specialist,678705,Average
+EMP0425,Arjun,Gupta,Male,Rajasthan,Udaipur,Graduate,1/9/1997,10/1/2019,,Finance,Financial Analyst,963666,Needs Improvement
+EMP0426,Karan,Kumar,Male,Telangana,Hyderabad,Diploma,4/21/1993,4/9/2021,,Sales,Sales Manager,571549,Average
+EMP0427,Anjali,Gupta,Female,Delhi,New Delhi,Post Graduate,7/26/2002,11/4/2022,,IT,Software Engineer,783036,Needs Improvement
+EMP0428,Priya,Jain,Female,Madhya Pradesh,Indore,Diploma,9/23/1993,2/17/2022,,IT,Software Engineer,744580,Needs Improvement
+EMP0429,Aditya,Verma,Male,Uttar Pradesh,Noida,Graduate,10/18/1986,10/30/2021,,Marketing,SEO Specialist,670106,Average
+EMP0430,Isha,Sharma,Female,Karnataka,Mysuru,Post Graduate,3/29/1985,4/6/2017,,Finance,Accountant,285241,Good
+EMP0431,Isha,Gupta,Female,Maharashtra,Pune,Diploma,9/10/1999,1/2/2015,,IT,Data Analyst,1067546,Needs Improvement
+EMP0432,Neha,Kumar,Female,Rajasthan,Jaipur,10+2,7/12/2001,11/22/2022,,IT,QA Engineer,548313,Average
+EMP0433,Neha,Agarwal,Female,Tamil Nadu,Chennai,Post Graduate,1/23/1994,6/12/2021,,Finance,Accountant,676911,Excellent
+EMP0434,Aditi,Verma,Female,Telangana,Hyderabad,Graduate,8/17/1987,1/2/2024,,Finance,Financial Analyst,977912,Needs Improvement
+EMP0435,Anjali,Malhotra,Female,West Bengal,Kolkata,Graduate,5/25/2002,2/23/2020,,Operations,Operations Executive,755382,Excellent
+EMP0436,Siddharth,Verma,Male,Rajasthan,Jaipur,Diploma,12/12/2002,7/17/2018,,Finance,Accountant,984861,Average
+EMP0437,Aman,Agarwal,Male,Delhi,New Delhi,Graduate,9/15/1986,3/21/2021,3/21/2024,Sales,Sales Manager,620711,Good
+EMP0438,Nisha,Agarwal,Female,Karnataka,Bengaluru,Post Graduate,7/14/2001,3/28/2017,,Marketing,Marketing Executive,1165136,Average
+EMP0439,Karan,Mehta,Male,Tamil Nadu,Chennai,Graduate,7/1/1988,9/26/2023,,IT,Software Engineer,958640,Needs Improvement
+EMP0440,Aditi,Sharma,Female,West Bengal,Kolkata,Graduate,1/17/1996,11/17/2024,,Finance,Financial Analyst,441755,Average
+EMP0441,Anjali,Mehta,Female,Madhya Pradesh,Indore,10+2,10/16/1996,12/18/2023,12/31/2025,Sales,Sales Executive,776883,Average
+EMP0442,Anjali,Gupta,Female,West Bengal,Kolkata,Post Graduate,1/30/1992,9/24/2022,10/28/2023,IT,QA Engineer,470989,Needs Improvement
+EMP0443,Nisha,Verma,Female,Gujarat,Surat,Graduate,3/14/1989,2/24/2021,,HR,HR Manager,744241,Average
+EMP0444,Neha,Gupta,Female,West Bengal,Kolkata,Diploma,5/27/1994,11/10/2022,,Finance,Financial Analyst,543212,Needs Improvement
+EMP0445,Rahul,Malhotra,Male,Karnataka,Bengaluru,10+2,3/2/2001,1/10/2018,,Operations,Operations Manager,1147904,Needs Improvement
+EMP0446,Karan,Gupta,Male,Karnataka,Mysuru,10+2,12/17/1988,9/23/2019,12/31/2025,HR,HR Manager,1073481,Needs Improvement
+EMP0447,Ankit,Agarwal,Male,Telangana,Hyderabad,Post Graduate,3/22/1987,9/29/2022,,IT,Software Engineer,1103350,Average
+EMP0448,Kavya,Verma,Female,West Bengal,Kolkata,Graduate,2/5/1993,1/15/2019,,Operations,Operations Manager,610857,Excellent
+EMP0449,Pooja,Verma,Female,Gujarat,Ahmedabad,Diploma,7/3/2002,3/11/2018,,Finance,Financial Analyst,1062378,Needs Improvement
+EMP0450,Aditya,Kumar,Male,Madhya Pradesh,Bhopal,Post Graduate,3/3/1999,8/16/2016,,Marketing,SEO Specialist,692306,Needs Improvement
+EMP0451,Aditya,Verma,Male,Karnataka,Mysuru,Diploma,1/13/1992,7/21/2018,,Marketing,SEO Specialist,884792,Needs Improvement
+EMP0452,Siddharth,Patel,Male,Gujarat,Surat,Post Graduate,10/2/1988,1/23/2017,4/27/2018,HR,HR Executive,944180,Average
+EMP0453,Aditya,Mehta,Male,Karnataka,Mysuru,10+2,2/22/1987,9/19/2015,,Operations,Operations Executive,277645,Needs Improvement
+EMP0454,Sneha,Verma,Female,Delhi,New Delhi,Diploma,11/22/1986,5/6/2022,,Finance,Accountant,509414,Average
+EMP0455,Riya,Gupta,Female,Karnataka,Bengaluru,10+2,10/15/1985,6/10/2022,,Finance,Financial Analyst,739887,Average
+EMP0456,Aditi,Patel,Female,Karnataka,Bengaluru,Post Graduate,2/26/1999,5/26/2023,12/31/2025,Operations,Operations Manager,798887,Average
+EMP0457,Neha,Patel,Female,Telangana,Hyderabad,10+2,11/29/1994,6/15/2018,,Sales,Sales Manager,413281,Average
+EMP0458,Aarav,Sharma,Male,Telangana,Hyderabad,Graduate,6/8/1991,4/5/2020,,IT,QA Engineer,765827,Needs Improvement
+EMP0459,Ankit,Sharma,Male,Rajasthan,Udaipur,Diploma,11/15/2002,1/30/2015,3/24/2022,Finance,Accountant,681736,Needs Improvement
+EMP0460,Anjali,Mehta,Female,Karnataka,Mysuru,Post Graduate,12/13/1989,12/13/2017,,Sales,Sales Executive,791704,Average
+EMP0461,Ankit,Jain,Male,Uttar Pradesh,Lucknow,Diploma,7/15/1986,1/17/2017,,Finance,Accountant,917830,Needs Improvement
+EMP0462,Isha,Patel,Female,Uttar Pradesh,Lucknow,Diploma,3/11/1992,3/21/2015,,IT,QA Engineer,273205,Good
+EMP0463,Arjun,Agarwal,Male,Uttar Pradesh,Noida,Post Graduate,4/23/2001,2/3/2015,9/13/2018,IT,Software Engineer,265440,Needs Improvement
+EMP0464,Karan,Singh,Male,Rajasthan,Udaipur,Post Graduate,5/1/1993,3/14/2020,,Finance,Accountant,1134522,Good
+EMP0465,Vivaan,Agarwal,Male,Rajasthan,Jaipur,Post Graduate,1/27/1989,2/26/2017,,Sales,Sales Executive,377885,Good
+EMP0466,Anjali,Patel,Female,Tamil Nadu,Chennai,Diploma,5/4/1995,3/31/2023,4/18/2025,Operations,Operations Executive,745793,Needs Improvement
+EMP0467,Ankit,Singh,Male,Karnataka,Bengaluru,10+2,9/7/1990,5/25/2020,,Finance,Accountant,627934,Excellent
+EMP0468,Karan,Verma,Male,Tamil Nadu,Coimbatore,Graduate,5/4/1985,11/16/2016,,Operations,Operations Executive,665035,Good
+EMP0469,Aarav,Sharma,Male,Madhya Pradesh,Bhopal,Diploma,5/1/1993,8/24/2023,,HR,HR Executive,774203,Excellent
+EMP0470,Isha,Singh,Female,Maharashtra,Mumbai,Graduate,6/17/1999,9/22/2016,,IT,Software Engineer,761540,Good
+EMP0471,Priya,Jain,Female,Gujarat,Surat,Diploma,6/24/1985,9/24/2022,,Finance,Accountant,512874,Excellent
+EMP0472,Kavya,Patel,Female,Telangana,Hyderabad,Post Graduate,4/4/1989,5/10/2021,,Operations,Operations Manager,589403,Needs Improvement
+EMP0473,Siddharth,Malhotra,Male,Telangana,Hyderabad,10+2,11/30/1996,9/26/2016,,Finance,Financial Analyst,817915,Average
+EMP0474,Riya,Sharma,Female,Telangana,Hyderabad,Diploma,6/3/1985,12/13/2021,,Operations,Operations Executive,586272,Excellent
+EMP0475,Aditi,Kumar,Female,Tamil Nadu,Coimbatore,Diploma,10/2/1998,3/5/2018,,Sales,Sales Manager,365830,Excellent
+EMP0476,Sneha,Verma,Female,Maharashtra,Mumbai,Diploma,9/14/1985,4/7/2017,,Sales,Sales Executive,353550,Excellent
+EMP0477,Nisha,Kumar,Female,West Bengal,Kolkata,10+2,3/21/1993,6/23/2017,,Marketing,Marketing Executive,263721,Good
+EMP0478,Kavya,Verma,Female,West Bengal,Kolkata,Graduate,7/8/1997,5/4/2023,,Finance,Accountant,1113652,Average
+EMP0479,Sneha,Sharma,Female,Delhi,New Delhi,10+2,11/4/1989,10/28/2020,,IT,QA Engineer,492239,Needs Improvement
+EMP0480,Karan,Mehta,Male,Telangana,Hyderabad,Diploma,7/11/1997,5/27/2023,,Sales,Sales Executive,1053506,Average
+EMP0481,Riya,Kumar,Female,Delhi,New Delhi,Diploma,5/3/1997,7/3/2019,,Finance,Accountant,809835,Needs Improvement
+EMP0482,Neha,Singh,Female,Telangana,Hyderabad,Graduate,4/1/1994,7/28/2023,,Sales,Sales Manager,887967,Good
+EMP0483,Nisha,Jain,Female,Tamil Nadu,Coimbatore,Graduate,1/28/1993,1/28/2020,,Sales,Sales Executive,1011594,Excellent
+EMP0484,Ankit,Malhotra,Male,Maharashtra,Nagpur,Diploma,10/9/1991,1/27/2015,,HR,HR Executive,1147287,Average
+EMP0485,Aarav,Agarwal,Male,Telangana,Hyderabad,10+2,11/6/1985,2/29/2020,,HR,HR Executive,527860,Average
+EMP0486,Nisha,Mehta,Female,Tamil Nadu,Coimbatore,Graduate,1/23/1987,5/25/2021,12/31/2025,Operations,Operations Executive,1019933,Excellent
+EMP0487,Priya,Patel,Female,Karnataka,Mysuru,10+2,5/9/1998,3/15/2022,,IT,QA Engineer,1097607,Needs Improvement
+EMP0488,Aditya,Sharma,Male,Gujarat,Surat,Post Graduate,5/6/1994,9/24/2024,,HR,HR Executive,914678,Needs Improvement
+EMP0489,Vivaan,Agarwal,Male,Telangana,Hyderabad,Graduate,2/10/1997,5/2/2021,1/4/2024,Finance,Accountant,410639,Excellent
+EMP0490,Anjali,Patel,Female,Madhya Pradesh,Indore,Diploma,9/9/1994,4/1/2018,,HR,HR Executive,602497,Excellent
+EMP0491,Kavya,Malhotra,Female,Maharashtra,Nagpur,Post Graduate,11/21/1990,12/15/2015,,Operations,Operations Manager,1061414,Good
+EMP0492,Rohan,Patel,Male,Telangana,Hyderabad,Post Graduate,11/13/1993,4/25/2022,12/31/2025,HR,HR Executive,504085,Excellent
+EMP0493,Siddharth,Kumar,Male,Gujarat,Ahmedabad,10+2,1/25/2000,8/22/2019,,Finance,Financial Analyst,449742,Average
+EMP0494,Neha,Malhotra,Female,Maharashtra,Pune,Diploma,11/4/1992,11/29/2021,,Operations,Operations Executive,711859,Excellent
+EMP0495,Aman,Mehta,Male,Gujarat,Ahmedabad,10+2,7/10/1987,4/18/2023,,HR,HR Executive,1160952,Average
+EMP0496,Aarav,Singh,Male,Delhi,New Delhi,Post Graduate,7/27/1995,4/4/2015,12/23/2019,HR,HR Executive,463701,Average
+EMP0497,Aditi,Patel,Female,Madhya Pradesh,Indore,10+2,6/13/1993,7/15/2021,,IT,Data Analyst,428593,Excellent
+EMP0498,Ankit,Mehta,Male,Madhya Pradesh,Bhopal,10+2,6/6/1995,5/5/2022,,IT,Data Analyst,942451,Average
+EMP0499,Neha,Verma,Female,Maharashtra,Pune,Post Graduate,3/9/1990,4/9/2019,,Marketing,Marketing Executive,1197778,Average
+EMP0500,Kavya,Malhotra,Female,Telangana,Hyderabad,Diploma,6/18/1989,8/12/2020,,Operations,Operations Executive,291683,Good
+EMP0501,Sneha,Agarwal,Female,Gujarat,Surat,Post Graduate,9/12/2001,10/5/2016,,Finance,Financial Analyst,622640,Average
+EMP0502,Aman,Jain,Male,Uttar Pradesh,Noida,Graduate,9/7/1993,12/26/2024,,Operations,Operations Manager,486540,Good
+EMP0503,Priya,Kumar,Female,Karnataka,Bengaluru,Post Graduate,9/5/1996,8/9/2022,12/31/2025,Marketing,Marketing Executive,687605,Good
+EMP0504,Nisha,Gupta,Female,Rajasthan,Udaipur,Graduate,1/28/1995,1/29/2021,7/22/2023,HR,HR Executive,859254,Good
+EMP0505,Rohan,Agarwal,Male,Telangana,Hyderabad,Post Graduate,4/10/2002,8/17/2016,,HR,HR Manager,321108,Excellent
+EMP0506,Rahul,Singh,Male,Karnataka,Bengaluru,Graduate,4/15/1994,8/12/2019,,Sales,Sales Manager,409338,Good
+EMP0507,Arjun,Gupta,Male,Karnataka,Bengaluru,Graduate,8/2/1998,5/11/2021,12/31/2025,HR,HR Executive,492129,Excellent
+EMP0508,Neha,Verma,Female,West Bengal,Kolkata,Post Graduate,12/20/2000,4/14/2022,,HR,HR Manager,765318,Needs Improvement
+EMP0509,Rohan,Gupta,Male,Tamil Nadu,Chennai,10+2,3/2/1994,7/29/2023,,Finance,Financial Analyst,483365,Good
+EMP0510,Karan,Verma,Male,Karnataka,Mysuru,Post Graduate,6/5/2000,8/23/2018,10/9/2024,HR,HR Manager,674533,Excellent
+EMP0511,Isha,Kumar,Female,Gujarat,Surat,10+2,9/5/1996,3/23/2016,4/15/2022,Sales,Sales Executive,1170418,Good
+EMP0512,Sneha,Jain,Female,Rajasthan,Jaipur,Post Graduate,7/30/1996,8/1/2023,12/31/2025,IT,Software Engineer,555323,Needs Improvement
+EMP0513,Anjali,Agarwal,Female,Uttar Pradesh,Lucknow,Diploma,6/23/1994,4/20/2018,,IT,QA Engineer,792081,Good
+EMP0514,Riya,Patel,Female,Delhi,New Delhi,Diploma,6/20/2002,7/25/2021,,HR,HR Manager,683648,Average
+EMP0515,Riya,Sharma,Female,Karnataka,Mysuru,Diploma,3/14/1995,1/5/2016,,Finance,Accountant,1003270,Excellent
+EMP0516,Aditya,Verma,Male,West Bengal,Kolkata,10+2,10/1/1996,12/7/2022,,Marketing,Marketing Executive,647073,Needs Improvement
+EMP0517,Vivaan,Gupta,Male,Gujarat,Ahmedabad,Diploma,3/30/1988,1/2/2017,,Sales,Sales Manager,574553,Needs Improvement
+EMP0518,Ankit,Gupta,Male,Delhi,New Delhi,Diploma,1/29/1985,12/25/2021,,IT,Data Analyst,771800,Needs Improvement
+EMP0519,Aditi,Sharma,Female,Madhya Pradesh,Bhopal,Diploma,11/12/1989,8/8/2021,,Sales,Sales Manager,713339,Excellent
+EMP0520,Isha,Malhotra,Female,Maharashtra,Mumbai,Graduate,11/26/1998,1/18/2022,12/31/2025,HR,HR Executive,443818,Good
+EMP0521,Vivaan,Singh,Male,Maharashtra,Mumbai,10+2,12/18/1999,6/25/2021,12/31/2025,Finance,Financial Analyst,341962,Excellent
+EMP0522,Arjun,Kumar,Male,Karnataka,Bengaluru,Graduate,9/16/1998,5/31/2022,,Operations,Operations Executive,727456,Average
+EMP0523,Vivaan,Verma,Male,Uttar Pradesh,Lucknow,Graduate,7/2/1993,3/13/2024,,Sales,Sales Executive,557057,Needs Improvement
+EMP0524,Rohan,Verma,Male,Uttar Pradesh,Lucknow,Post Graduate,10/7/1996,5/9/2017,,Operations,Operations Executive,364611,Excellent
+EMP0525,Kavya,Malhotra,Female,Uttar Pradesh,Lucknow,Graduate,10/29/1990,11/22/2020,,Operations,Operations Manager,386014,Needs Improvement
+EMP0526,Sneha,Patel,Female,West Bengal,Kolkata,Diploma,11/22/2000,4/4/2018,,IT,Software Engineer,275151,Needs Improvement
+EMP0527,Arjun,Mehta,Male,Madhya Pradesh,Bhopal,Post Graduate,1/8/1986,9/29/2018,,Operations,Operations Executive,261846,Good
+EMP0528,Aditya,Agarwal,Male,Uttar Pradesh,Lucknow,10+2,7/22/1987,9/10/2022,,Finance,Financial Analyst,1009584,Excellent
+EMP0529,Rahul,Mehta,Male,Gujarat,Surat,Post Graduate,8/24/1995,12/10/2023,,Marketing,Marketing Executive,754884,Good
+EMP0530,Riya,Jain,Female,Gujarat,Surat,Post Graduate,8/28/2001,8/18/2015,,Finance,Financial Analyst,832145,Excellent
+EMP0531,Karan,Malhotra,Male,Gujarat,Surat,10+2,5/8/1988,2/22/2018,6/29/2019,Finance,Financial Analyst,906944,Good
+EMP0532,Nisha,Malhotra,Female,Rajasthan,Jaipur,10+2,7/19/2002,6/6/2023,,Marketing,SEO Specialist,994321,Excellent
+EMP0533,Aditya,Patel,Male,Tamil Nadu,Coimbatore,Post Graduate,8/9/2003,5/24/2018,10/25/2021,Operations,Operations Manager,433514,Excellent
+EMP0534,Neha,Sharma,Female,Tamil Nadu,Chennai,Post Graduate,5/8/1996,4/13/2015,,Operations,Operations Executive,449451,Average
+EMP0535,Kavya,Jain,Female,Uttar Pradesh,Lucknow,Diploma,4/5/2002,10/10/2024,12/31/2025,Operations,Operations Executive,465154,Excellent
+EMP0536,Riya,Kumar,Female,Telangana,Hyderabad,10+2,12/23/1991,6/30/2015,,IT,Data Analyst,739554,Excellent
+EMP0537,Arjun,Jain,Male,Uttar Pradesh,Noida,Graduate,5/1/1999,5/9/2017,12/13/2021,HR,HR Executive,550487,Average
+EMP0538,Aditi,Singh,Female,West Bengal,Kolkata,Graduate,5/8/1988,10/7/2016,,IT,Software Engineer,903205,Excellent
+EMP0539,Karan,Jain,Male,Gujarat,Surat,Graduate,3/5/1988,11/25/2022,,Operations,Operations Executive,429594,Excellent
+EMP0540,Ankit,Malhotra,Male,Gujarat,Surat,10+2,12/2/1987,4/29/2015,8/8/2021,Marketing,Marketing Executive,361072,Needs Improvement
+EMP0541,Vivaan,Verma,Male,Rajasthan,Udaipur,Diploma,10/21/2000,9/7/2021,12/31/2025,Marketing,SEO Specialist,896253,Average
+EMP0542,Ankit,Singh,Male,Tamil Nadu,Chennai,Post Graduate,9/26/1997,6/23/2016,7/8/2018,Marketing,SEO Specialist,351987,Needs Improvement
+EMP0543,Ankit,Patel,Male,West Bengal,Kolkata,Diploma,3/23/1988,8/28/2024,12/31/2025,Finance,Financial Analyst,661122,Good
+EMP0544,Priya,Singh,Female,West Bengal,Kolkata,10+2,6/20/1986,4/30/2020,,Finance,Financial Analyst,733646,Good
+EMP0545,Ankit,Singh,Male,Madhya Pradesh,Indore,10+2,2/6/1994,3/2/2024,12/31/2025,Finance,Accountant,1080924,Average
+EMP0546,Aditi,Patel,Female,Rajasthan,Udaipur,Diploma,12/5/1998,9/25/2017,,HR,HR Manager,652460,Excellent
+EMP0547,Nisha,Kumar,Female,Rajasthan,Udaipur,Diploma,11/18/1988,6/7/2022,,Marketing,SEO Specialist,369876,Needs Improvement
+EMP0548,Priya,Jain,Female,Delhi,New Delhi,Diploma,11/29/1991,7/21/2019,5/1/2021,Operations,Operations Executive,968807,Needs Improvement
+EMP0549,Priya,Patel,Female,Maharashtra,Mumbai,Diploma,4/30/2003,7/23/2016,1/26/2024,Marketing,Marketing Executive,1043853,Good
+EMP0550,Rohan,Patel,Male,Telangana,Hyderabad,Post Graduate,10/22/1998,6/25/2021,,HR,HR Executive,964622,Average
+EMP0551,Ankit,Kumar,Male,Gujarat,Ahmedabad,10+2,9/19/1998,9/21/2020,12/31/2025,HR,HR Manager,315442,Average
+EMP0552,Aditi,Sharma,Female,Maharashtra,Nagpur,Graduate,6/18/1987,8/28/2024,12/31/2025,IT,Software Engineer,702686,Needs Improvement
+EMP0553,Priya,Kumar,Female,Rajasthan,Udaipur,Post Graduate,3/24/1997,5/15/2017,4/24/2020,Sales,Sales Executive,447370,Needs Improvement
+EMP0554,Neha,Kumar,Female,Karnataka,Mysuru,Diploma,1/6/1988,2/17/2015,,Marketing,Marketing Executive,400990,Needs Improvement
+EMP0555,Aditya,Gupta,Male,Rajasthan,Udaipur,Post Graduate,12/24/1998,1/6/2017,,Operations,Operations Manager,828866,Needs Improvement
+EMP0556,Anjali,Singh,Female,Tamil Nadu,Chennai,Post Graduate,7/24/1998,1/31/2015,7/25/2022,Sales,Sales Executive,996722,Average
+EMP0557,Pooja,Jain,Female,Madhya Pradesh,Bhopal,10+2,11/7/1985,5/16/2021,,Marketing,SEO Specialist,368661,Needs Improvement
+EMP0558,Aditya,Gupta,Male,Telangana,Hyderabad,Post Graduate,8/5/1996,11/17/2015,,Operations,Operations Executive,507143,Needs Improvement
+EMP0559,Nisha,Agarwal,Female,Madhya Pradesh,Indore,Graduate,12/31/1996,9/24/2023,,Sales,Sales Manager,787566,Needs Improvement
+EMP0560,Nisha,Singh,Female,Rajasthan,Udaipur,Graduate,6/28/1991,11/17/2016,4/10/2018,Marketing,SEO Specialist,1012285,Average
+EMP0561,Vivaan,Patel,Male,Madhya Pradesh,Indore,10+2,9/21/1999,4/10/2018,,IT,Data Analyst,758307,Excellent
+EMP0562,Rohan,Jain,Male,Delhi,New Delhi,Graduate,12/22/1987,11/27/2021,12/31/2025,Finance,Financial Analyst,264892,Excellent
+EMP0563,Isha,Gupta,Female,Madhya Pradesh,Indore,Post Graduate,4/18/1993,1/22/2024,,Finance,Accountant,758473,Good
+EMP0564,Sneha,Sharma,Female,Gujarat,Ahmedabad,Diploma,5/11/1998,3/19/2024,,Sales,Sales Manager,1057789,Needs Improvement
+EMP0565,Aman,Patel,Male,Karnataka,Bengaluru,Graduate,3/22/1986,3/15/2022,,IT,Software Engineer,425741,Needs Improvement
+EMP0566,Aditi,Mehta,Female,Rajasthan,Udaipur,Post Graduate,11/22/1990,8/17/2016,,Sales,Sales Executive,552820,Needs Improvement
+EMP0567,Anjali,Singh,Female,Telangana,Hyderabad,10+2,12/1/1996,2/23/2022,,Sales,Sales Manager,601238,Average
+EMP0568,Siddharth,Verma,Male,Uttar Pradesh,Lucknow,Post Graduate,5/5/2002,7/28/2022,12/31/2025,Marketing,Marketing Executive,795209,Average
+EMP0569,Rahul,Singh,Male,Telangana,Hyderabad,10+2,8/28/2003,10/6/2015,,Sales,Sales Executive,800779,Excellent
+EMP0570,Riya,Singh,Female,Tamil Nadu,Coimbatore,Graduate,5/1/1989,5/20/2015,,Operations,Operations Executive,309645,Good
+EMP0571,Isha,Verma,Female,Delhi,New Delhi,Diploma,6/7/1993,5/12/2022,12/31/2025,HR,HR Executive,979445,Good
+EMP0572,Siddharth,Agarwal,Male,West Bengal,Kolkata,Post Graduate,3/15/1991,8/18/2023,,Marketing,SEO Specialist,519836,Good
+EMP0573,Vivaan,Kumar,Male,Rajasthan,Udaipur,10+2,10/17/1990,2/12/2024,,HR,HR Manager,322769,Needs Improvement
+EMP0574,Karan,Malhotra,Male,Rajasthan,Jaipur,Post Graduate,6/8/1987,8/12/2016,,Sales,Sales Executive,893790,Excellent
+EMP0575,Riya,Agarwal,Female,Delhi,New Delhi,10+2,7/31/1986,5/29/2021,3/20/2025,Sales,Sales Executive,1190061,Needs Improvement
+EMP0576,Rohan,Sharma,Male,Maharashtra,Nagpur,Post Graduate,12/23/1990,9/12/2016,,Sales,Sales Executive,790418,Needs Improvement
+EMP0577,Kavya,Kumar,Female,Rajasthan,Jaipur,Diploma,1/28/1985,4/24/2019,9/18/2025,IT,QA Engineer,811307,Average
+EMP0578,Priya,Agarwal,Female,Rajasthan,Jaipur,10+2,3/12/1993,12/29/2020,,IT,Data Analyst,1047392,Average
+EMP0579,Karan,Gupta,Male,Telangana,Hyderabad,Post Graduate,10/27/1999,2/21/2017,,Marketing,SEO Specialist,1190007,Excellent
+EMP0580,Neha,Patel,Female,Delhi,New Delhi,Diploma,2/21/1988,5/27/2015,,IT,QA Engineer,871748,Good
+EMP0581,Kavya,Kumar,Female,Delhi,New Delhi,Post Graduate,12/23/1996,5/10/2024,,IT,Software Engineer,605766,Excellent
+EMP0582,Priya,Sharma,Female,Rajasthan,Jaipur,Diploma,2/7/2003,5/2/2022,12/31/2025,Sales,Sales Executive,1027048,Good
+EMP0583,Rohan,Patel,Male,Maharashtra,Pune,10+2,6/12/1990,11/12/2022,,IT,Software Engineer,913393,Excellent
+EMP0584,Ankit,Verma,Male,West Bengal,Kolkata,10+2,5/6/2003,3/2/2024,12/31/2025,IT,Data Analyst,873879,Good
+EMP0585,Aditya,Mehta,Male,Rajasthan,Udaipur,Post Graduate,4/10/1992,5/9/2016,10/24/2023,Operations,Operations Executive,587211,Good
+EMP0586,Vivaan,Malhotra,Male,Karnataka,Mysuru,10+2,9/17/1987,1/26/2018,,Sales,Sales Executive,980119,Average
+EMP0587,Aditi,Gupta,Female,West Bengal,Kolkata,10+2,12/29/1987,2/14/2016,,Operations,Operations Manager,1065437,Good
+EMP0588,Aarav,Patel,Male,Delhi,New Delhi,10+2,1/9/1989,1/1/2016,8/28/2023,Finance,Financial Analyst,977191,Needs Improvement
+EMP0589,Rohan,Agarwal,Male,Telangana,Hyderabad,Post Graduate,5/14/1990,12/15/2016,10/19/2024,Marketing,Marketing Executive,875236,Good
+EMP0590,Kavya,Malhotra,Female,Delhi,New Delhi,Graduate,5/24/1994,1/19/2015,,HR,HR Executive,373215,Excellent
+EMP0591,Isha,Singh,Female,Telangana,Hyderabad,Post Graduate,4/12/2002,1/9/2022,,Finance,Accountant,453129,Excellent
+EMP0592,Rohan,Patel,Male,West Bengal,Kolkata,Diploma,1/12/2000,6/26/2015,,Marketing,SEO Specialist,548911,Good
+EMP0593,Pooja,Agarwal,Female,Gujarat,Surat,10+2,5/6/1987,4/21/2023,,Operations,Operations Executive,415722,Excellent
+EMP0594,Kavya,Jain,Female,Delhi,New Delhi,Diploma,3/7/2001,12/27/2019,,Operations,Operations Manager,689422,Good
+EMP0595,Arjun,Singh,Male,Tamil Nadu,Chennai,Diploma,7/19/2001,8/17/2019,,Sales,Sales Executive,327101,Needs Improvement
+EMP0596,Nisha,Patel,Female,Maharashtra,Pune,Diploma,11/6/1989,11/1/2021,,HR,HR Manager,641627,Good
+EMP0597,Riya,Mehta,Female,Gujarat,Surat,Diploma,7/14/1992,6/5/2016,,Marketing,Marketing Executive,544234,Good
+EMP0598,Arjun,Patel,Male,West Bengal,Kolkata,Diploma,1/20/2002,11/8/2018,,Finance,Accountant,1077899,Good
+EMP0599,Nisha,Jain,Female,Tamil Nadu,Chennai,Post Graduate,9/14/1996,6/26/2020,,Operations,Operations Manager,1127646,Needs Improvement
+EMP0600,Siddharth,Sharma,Male,Rajasthan,Jaipur,Diploma,5/5/1992,11/14/2019,,HR,HR Executive,851568,Excellent
+EMP0601,Pooja,Sharma,Female,Maharashtra,Pune,10+2,7/20/1994,12/15/2020,12/31/2025,Sales,Sales Executive,724419,Needs Improvement
+EMP0602,Aman,Verma,Male,Telangana,Hyderabad,Post Graduate,11/21/1989,6/27/2016,7/4/2021,Finance,Accountant,929099,Excellent
+EMP0603,Aarav,Patel,Male,Uttar Pradesh,Noida,Post Graduate,10/17/1997,5/19/2023,,IT,Data Analyst,736288,Good
+EMP0604,Anjali,Gupta,Female,Gujarat,Surat,10+2,1/26/1999,10/17/2015,,Marketing,SEO Specialist,806710,Excellent
+EMP0605,Ankit,Kumar,Male,Uttar Pradesh,Noida,10+2,12/1/1998,11/16/2024,12/31/2025,Marketing,Marketing Executive,789740,Average
+EMP0606,Vivaan,Verma,Male,Rajasthan,Udaipur,Post Graduate,11/20/1998,6/17/2015,7/22/2020,Finance,Accountant,929658,Excellent
+EMP0607,Aditi,Mehta,Female,Karnataka,Mysuru,Diploma,2/7/1997,4/10/2016,,Marketing,Marketing Executive,1039759,Good
+EMP0608,Priya,Singh,Female,Uttar Pradesh,Lucknow,Graduate,3/23/1986,9/17/2015,,Finance,Financial Analyst,759845,Excellent
+EMP0609,Kavya,Jain,Female,Telangana,Hyderabad,Post Graduate,12/5/1998,2/16/2019,,HR,HR Manager,341549,Excellent
+EMP0610,Anjali,Gupta,Female,Uttar Pradesh,Noida,10+2,9/11/1988,2/4/2018,,Marketing,Marketing Executive,770438,Good
+EMP0611,Karan,Jain,Male,Maharashtra,Pune,Post Graduate,4/22/2000,1/26/2021,,Sales,Sales Manager,690538,Needs Improvement
+EMP0612,Aarav,Agarwal,Male,Tamil Nadu,Chennai,10+2,12/27/2002,8/9/2017,,Marketing,SEO Specialist,681690,Average
+EMP0613,Priya,Patel,Female,Madhya Pradesh,Bhopal,Post Graduate,10/28/1991,5/12/2021,11/3/2023,Finance,Accountant,1077607,Average
+EMP0614,Aman,Patel,Male,Gujarat,Surat,10+2,4/30/1988,12/17/2018,,Sales,Sales Executive,898680,Good
+EMP0615,Aditi,Agarwal,Female,Karnataka,Bengaluru,Diploma,8/13/1988,9/1/2017,12/23/2019,IT,Data Analyst,852433,Good
+EMP0616,Neha,Gupta,Female,Tamil Nadu,Chennai,Graduate,9/17/1992,8/28/2016,11/2/2021,Sales,Sales Executive,809565,Average
+EMP0617,Arjun,Sharma,Male,Rajasthan,Udaipur,Diploma,4/11/1995,8/4/2018,,IT,QA Engineer,822675,Average
+EMP0618,Rohan,Malhotra,Male,West Bengal,Kolkata,10+2,5/30/2001,5/15/2020,10/26/2021,HR,HR Executive,573047,Excellent
+EMP0619,Anjali,Malhotra,Female,Tamil Nadu,Coimbatore,Graduate,1/28/1987,8/29/2018,,Operations,Operations Executive,861772,Good
+EMP0620,Siddharth,Mehta,Male,Maharashtra,Mumbai,Post Graduate,3/9/2000,7/13/2022,,Operations,Operations Manager,453895,Needs Improvement
+EMP0621,Priya,Malhotra,Female,Madhya Pradesh,Indore,Graduate,12/1/1993,8/28/2016,6/14/2022,Finance,Financial Analyst,640941,Excellent
+EMP0622,Ankit,Singh,Male,Gujarat,Surat,Post Graduate,8/1/1997,12/25/2015,,Marketing,SEO Specialist,1027548,Needs Improvement
+EMP0623,Rahul,Kumar,Male,Rajasthan,Jaipur,10+2,3/22/1988,5/1/2017,,Sales,Sales Manager,319327,Needs Improvement
+EMP0624,Pooja,Agarwal,Female,Rajasthan,Jaipur,Post Graduate,12/6/2000,5/15/2021,,HR,HR Executive,1122712,Needs Improvement
+EMP0625,Ankit,Jain,Male,West Bengal,Kolkata,Graduate,9/20/2003,7/25/2021,12/20/2025,Sales,Sales Manager,485426,Excellent
+EMP0626,Aarav,Gupta,Male,Uttar Pradesh,Lucknow,Post Graduate,10/15/1987,5/2/2022,,Sales,Sales Executive,765780,Good
+EMP0627,Aarav,Verma,Male,Uttar Pradesh,Lucknow,10+2,6/8/1998,5/12/2023,,Operations,Operations Manager,843047,Needs Improvement
+EMP0628,Siddharth,Patel,Male,Delhi,New Delhi,10+2,12/17/2003,11/29/2017,9/26/2020,Operations,Operations Executive,403235,Average
+EMP0629,Riya,Gupta,Female,Gujarat,Ahmedabad,10+2,2/12/1991,1/19/2019,10/2/2024,Marketing,SEO Specialist,301081,Average
+EMP0630,Ankit,Jain,Male,Delhi,New Delhi,Diploma,2/25/2002,1/23/2016,,HR,HR Manager,1164822,Average
+EMP0631,Neha,Verma,Female,Telangana,Hyderabad,Diploma,4/16/1985,7/14/2016,,Finance,Financial Analyst,1066639,Needs Improvement
+EMP0632,Rahul,Verma,Male,Tamil Nadu,Chennai,Diploma,8/27/2003,2/10/2017,,Operations,Operations Executive,687619,Needs Improvement
+EMP0633,Aditya,Verma,Male,Karnataka,Bengaluru,Post Graduate,10/23/1992,6/30/2018,,HR,HR Manager,1182945,Average
+EMP0634,Aarav,Verma,Male,Tamil Nadu,Chennai,Diploma,6/7/2000,7/17/2017,,HR,HR Executive,386543,Excellent
+EMP0635,Pooja,Verma,Female,Delhi,New Delhi,Post Graduate,12/27/2001,11/2/2019,,HR,HR Executive,284385,Excellent
+EMP0636,Siddharth,Sharma,Male,Delhi,New Delhi,10+2,12/4/2001,1/31/2016,6/21/2018,Operations,Operations Executive,866146,Good
+EMP0637,Aarav,Verma,Male,Karnataka,Mysuru,Graduate,11/25/1992,10/19/2016,,Marketing,Marketing Executive,779435,Excellent
+EMP0638,Arjun,Malhotra,Male,Maharashtra,Nagpur,Diploma,1/20/2001,2/23/2017,4/22/2021,HR,HR Executive,1010583,Excellent
+EMP0639,Kavya,Singh,Female,Madhya Pradesh,Indore,Post Graduate,2/9/2000,3/15/2016,,Finance,Financial Analyst,694692,Good
+EMP0640,Sneha,Mehta,Female,Rajasthan,Jaipur,Graduate,10/10/1987,3/23/2020,,Operations,Operations Executive,769900,Average
+EMP0641,Vivaan,Verma,Male,Gujarat,Surat,10+2,8/19/1993,3/7/2018,,Operations,Operations Manager,970420,Needs Improvement
+EMP0642,Pooja,Agarwal,Female,Rajasthan,Jaipur,10+2,11/12/2003,12/31/2023,12/31/2025,Marketing,SEO Specialist,438006,Excellent
+EMP0643,Sneha,Verma,Female,Delhi,New Delhi,Post Graduate,12/26/1993,10/17/2022,,IT,QA Engineer,1185778,Good
+EMP0644,Aditya,Singh,Male,Tamil Nadu,Coimbatore,Diploma,5/6/1998,6/19/2024,,IT,Software Engineer,1128821,Needs Improvement
+EMP0645,Kavya,Agarwal,Female,Madhya Pradesh,Bhopal,Post Graduate,12/27/1992,5/2/2020,,Sales,Sales Manager,786256,Average
+EMP0646,Rohan,Patel,Male,Delhi,New Delhi,Graduate,12/23/1995,7/29/2020,,Marketing,Marketing Executive,281167,Excellent
+EMP0647,Kavya,Sharma,Female,Karnataka,Mysuru,Graduate,6/5/1988,5/25/2018,,Operations,Operations Executive,1047097,Excellent
+EMP0648,Sneha,Patel,Female,West Bengal,Kolkata,Graduate,11/7/1999,8/1/2020,,Operations,Operations Manager,818787,Average
+EMP0649,Aditi,Jain,Female,Maharashtra,Mumbai,Post Graduate,9/3/1987,4/21/2019,5/7/2025,Finance,Financial Analyst,714053,Needs Improvement
+EMP0650,Vivaan,Sharma,Male,Karnataka,Mysuru,Diploma,1/10/1996,10/31/2019,,Finance,Financial Analyst,761133,Excellent
+EMP0651,Nisha,Patel,Female,Telangana,Hyderabad,Post Graduate,8/11/1997,7/31/2024,,Operations,Operations Executive,660396,Average
+EMP0652,Anjali,Malhotra,Female,Gujarat,Surat,Graduate,5/19/1986,4/26/2015,12/8/2022,IT,Software Engineer,1127589,Average
+EMP0653,Neha,Malhotra,Female,Maharashtra,Nagpur,Graduate,7/15/1993,2/3/2016,,Finance,Financial Analyst,681939,Average
+EMP0654,Vivaan,Mehta,Male,Tamil Nadu,Chennai,Graduate,4/17/1998,12/14/2015,,Finance,Accountant,603993,Good
+EMP0655,Aarav,Jain,Male,Gujarat,Ahmedabad,Post Graduate,10/3/1999,9/6/2024,,Operations,Operations Manager,529570,Excellent
+EMP0656,Aarav,Singh,Male,Rajasthan,Udaipur,Graduate,11/4/1997,2/5/2016,,IT,QA Engineer,957905,Good
+EMP0657,Rahul,Malhotra,Male,Uttar Pradesh,Lucknow,Post Graduate,7/11/1989,7/28/2020,12/31/2025,IT,QA Engineer,474479,Average
+EMP0658,Siddharth,Sharma,Male,Uttar Pradesh,Lucknow,Diploma,1/4/1999,5/1/2023,,Marketing,Marketing Executive,870615,Average
+EMP0659,Siddharth,Verma,Male,Madhya Pradesh,Bhopal,Post Graduate,9/15/1989,11/23/2018,10/2/2020,Marketing,SEO Specialist,779152,Average
+EMP0660,Pooja,Jain,Female,Gujarat,Ahmedabad,Post Graduate,1/9/1994,10/26/2017,,Operations,Operations Manager,954181,Good
+EMP0661,Rahul,Malhotra,Male,West Bengal,Kolkata,Post Graduate,1/4/1991,2/25/2022,,Operations,Operations Manager,843616,Excellent
+EMP0662,Sneha,Mehta,Female,Gujarat,Surat,Diploma,5/24/1990,9/8/2016,,Sales,Sales Manager,584132,Excellent
+EMP0663,Karan,Kumar,Male,Uttar Pradesh,Lucknow,Diploma,10/2/1990,9/14/2022,12/31/2025,HR,HR Manager,500067,Excellent
+EMP0664,Aarav,Mehta,Male,Uttar Pradesh,Lucknow,Post Graduate,7/23/1997,11/22/2019,,Marketing,Marketing Executive,461802,Good
+EMP0665,Siddharth,Gupta,Male,Maharashtra,Pune,Graduate,10/10/1999,3/5/2021,2/23/2024,Marketing,Marketing Executive,1007568,Needs Improvement
+EMP0666,Aditya,Singh,Male,Madhya Pradesh,Bhopal,10+2,2/17/1994,1/28/2019,,Sales,Sales Executive,497507,Excellent
+EMP0667,Arjun,Jain,Male,Madhya Pradesh,Bhopal,Post Graduate,1/10/1987,9/2/2017,,IT,Data Analyst,595281,Needs Improvement
+EMP0668,Aman,Kumar,Male,Tamil Nadu,Chennai,10+2,12/5/1988,5/26/2017,,Sales,Sales Manager,516659,Excellent
+EMP0669,Priya,Jain,Female,Rajasthan,Udaipur,Diploma,3/26/1991,11/11/2024,,Finance,Financial Analyst,1000435,Average
+EMP0670,Ankit,Sharma,Male,Madhya Pradesh,Indore,10+2,6/29/2000,11/5/2023,,Finance,Financial Analyst,574291,Average
+EMP0671,Arjun,Jain,Male,Tamil Nadu,Coimbatore,Post Graduate,3/6/1985,5/29/2019,4/9/2023,Finance,Accountant,1112671,Good
+EMP0672,Ankit,Mehta,Male,Karnataka,Mysuru,Graduate,3/21/2003,8/7/2023,,IT,Data Analyst,1158533,Excellent
+EMP0673,Kavya,Patel,Female,Rajasthan,Udaipur,Post Graduate,5/26/2003,2/16/2016,,Marketing,SEO Specialist,780930,Excellent
+EMP0674,Neha,Kumar,Female,Madhya Pradesh,Bhopal,Post Graduate,8/5/2000,4/23/2015,,Marketing,Marketing Executive,910766,Needs Improvement
+EMP0675,Anjali,Mehta,Female,Uttar Pradesh,Lucknow,10+2,6/27/1987,10/8/2016,7/26/2020,Operations,Operations Executive,1138102,Needs Improvement
+EMP0676,Kavya,Gupta,Female,Uttar Pradesh,Noida,Graduate,12/7/2002,2/28/2018,5/21/2021,IT,Data Analyst,635456,Good
+EMP0677,Anjali,Kumar,Female,Madhya Pradesh,Indore,10+2,7/8/1985,4/6/2021,,Marketing,Marketing Executive,343298,Needs Improvement
+EMP0678,Karan,Agarwal,Male,Karnataka,Bengaluru,Post Graduate,11/11/1998,10/23/2019,12/31/2025,Finance,Accountant,343387,Average
+EMP0679,Arjun,Sharma,Male,Telangana,Hyderabad,Post Graduate,7/22/2003,7/22/2022,,IT,Software Engineer,998225,Good
+EMP0680,Karan,Agarwal,Male,Uttar Pradesh,Lucknow,Post Graduate,12/3/1987,11/2/2019,2/25/2023,Operations,Operations Executive,1114119,Average
+EMP0681,Karan,Kumar,Male,Karnataka,Mysuru,Diploma,8/24/1985,4/3/2018,,HR,HR Manager,510380,Average
+EMP0682,Priya,Kumar,Female,Tamil Nadu,Coimbatore,Post Graduate,7/6/2001,9/12/2021,,IT,Software Engineer,834056,Excellent
+EMP0683,Vivaan,Singh,Male,Tamil Nadu,Coimbatore,Graduate,8/8/1998,7/10/2022,,Marketing,Marketing Executive,255621,Average
+EMP0684,Sneha,Malhotra,Female,Rajasthan,Udaipur,Post Graduate,1/21/2000,2/28/2019,,Operations,Operations Executive,858684,Good
+EMP0685,Siddharth,Gupta,Male,Telangana,Hyderabad,Graduate,7/2/1995,6/24/2016,6/26/2018,Finance,Financial Analyst,398683,Average
+EMP0686,Arjun,Singh,Male,Maharashtra,Mumbai,Post Graduate,9/22/2003,2/24/2018,,Sales,Sales Manager,1196646,Average
+EMP0687,Isha,Agarwal,Female,Telangana,Hyderabad,Post Graduate,9/13/1988,7/16/2018,,HR,HR Manager,305807,Good
+EMP0688,Aman,Gupta,Male,Maharashtra,Pune,Graduate,9/1/1988,12/1/2022,,Sales,Sales Executive,1188659,Needs Improvement
+EMP0689,Vivaan,Patel,Male,Gujarat,Surat,Post Graduate,1/22/1996,4/5/2016,,IT,Data Analyst,348123,Good
+EMP0690,Ankit,Gupta,Male,Karnataka,Mysuru,Diploma,2/2/1998,1/17/2015,,Operations,Operations Executive,686646,Excellent
+EMP0691,Aman,Patel,Male,Delhi,New Delhi,10+2,5/18/1991,8/22/2022,1/2/2025,Sales,Sales Manager,869014,Excellent
+EMP0692,Priya,Gupta,Female,Maharashtra,Mumbai,Post Graduate,8/20/2003,12/8/2022,,Sales,Sales Manager,873068,Excellent
+EMP0693,Priya,Sharma,Female,Madhya Pradesh,Bhopal,Graduate,5/29/2001,3/27/2023,,HR,HR Executive,1155213,Excellent
+EMP0694,Aditi,Malhotra,Female,Rajasthan,Jaipur,Post Graduate,9/22/1990,12/30/2016,,Sales,Sales Executive,271508,Good
+EMP0695,Rahul,Kumar,Male,Rajasthan,Udaipur,Diploma,9/15/1987,5/7/2018,,Sales,Sales Manager,1197634,Good
+EMP0696,Karan,Patel,Male,West Bengal,Kolkata,Post Graduate,1/9/1991,4/25/2021,,Sales,Sales Executive,1043237,Needs Improvement
+EMP0697,Rahul,Kumar,Male,Rajasthan,Jaipur,10+2,7/7/1996,10/31/2018,,Marketing,Marketing Executive,929068,Good
+EMP0698,Kavya,Agarwal,Female,Karnataka,Bengaluru,Graduate,11/16/2003,10/15/2017,8/26/2024,Sales,Sales Manager,846152,Excellent
+EMP0699,Aditi,Verma,Female,Maharashtra,Nagpur,10+2,6/15/1996,10/7/2019,5/24/2025,IT,Data Analyst,942956,Average
+EMP0700,Neha,Agarwal,Female,Madhya Pradesh,Indore,10+2,7/23/1987,4/22/2023,12/31/2025,HR,HR Executive,1133855,Needs Improvement
+EMP0701,Pooja,Agarwal,Female,Gujarat,Surat,Post Graduate,12/29/1998,1/22/2024,12/31/2025,Finance,Accountant,471321,Good
+EMP0702,Aditya,Malhotra,Male,Uttar Pradesh,Noida,Post Graduate,12/26/1996,3/15/2015,4/6/2016,Sales,Sales Executive,263950,Good
+EMP0703,Kavya,Patel,Female,Rajasthan,Udaipur,Graduate,11/15/1998,2/13/2024,,Finance,Financial Analyst,1093726,Average
+EMP0704,Aditya,Gupta,Male,Karnataka,Bengaluru,Diploma,7/6/1987,2/25/2024,,Marketing,Marketing Executive,1150739,Excellent
+EMP0705,Karan,Patel,Male,Karnataka,Bengaluru,Post Graduate,11/21/2003,1/8/2022,,HR,HR Executive,565535,Needs Improvement
+EMP0706,Pooja,Sharma,Female,Delhi,New Delhi,Diploma,7/28/2001,11/17/2022,,Sales,Sales Manager,270581,Needs Improvement
+EMP0707,Karan,Agarwal,Male,Madhya Pradesh,Bhopal,10+2,6/27/1992,2/2/2015,,Marketing,SEO Specialist,685878,Needs Improvement
+EMP0708,Aditi,Agarwal,Female,Maharashtra,Pune,Post Graduate,11/27/1995,10/3/2020,,Marketing,SEO Specialist,493170,Excellent
+EMP0709,Sneha,Sharma,Female,Rajasthan,Udaipur,10+2,1/4/1991,4/9/2022,,Sales,Sales Executive,768823,Average
+EMP0710,Riya,Kumar,Female,Maharashtra,Mumbai,Graduate,4/16/2001,2/26/2017,,Finance,Financial Analyst,493377,Good
+EMP0711,Nisha,Singh,Female,Madhya Pradesh,Bhopal,Diploma,8/1/1991,2/9/2023,,Sales,Sales Manager,1084637,Needs Improvement
+EMP0712,Karan,Agarwal,Male,Delhi,New Delhi,Diploma,11/20/1988,3/28/2017,,Operations,Operations Manager,355805,Needs Improvement
+EMP0713,Kavya,Agarwal,Female,Tamil Nadu,Chennai,10+2,5/29/1985,1/9/2019,,Finance,Accountant,433201,Excellent
+EMP0714,Aditya,Singh,Male,Rajasthan,Jaipur,Diploma,9/16/1987,4/20/2021,10/23/2024,Sales,Sales Manager,606855,Average
+EMP0715,Vivaan,Jain,Male,Uttar Pradesh,Noida,10+2,11/4/2000,7/26/2015,,Sales,Sales Executive,361035,Excellent
+EMP0716,Rahul,Verma,Male,Tamil Nadu,Coimbatore,Diploma,5/3/2001,4/11/2018,3/23/2024,Operations,Operations Manager,1018136,Excellent
+EMP0717,Rohan,Singh,Male,Gujarat,Ahmedabad,10+2,7/12/1989,12/4/2019,,IT,Software Engineer,1125365,Needs Improvement
+EMP0718,Priya,Agarwal,Female,Telangana,Hyderabad,10+2,12/20/1990,3/6/2019,10/29/2024,Finance,Accountant,408975,Needs Improvement
+EMP0719,Aman,Gupta,Male,Rajasthan,Udaipur,Post Graduate,4/17/1995,7/23/2024,,Marketing,SEO Specialist,281208,Needs Improvement
+EMP0720,Rahul,Kumar,Male,Maharashtra,Pune,10+2,10/23/1999,3/12/2022,11/19/2024,Operations,Operations Executive,912288,Average
+EMP0721,Pooja,Kumar,Female,Telangana,Hyderabad,Graduate,9/20/1992,2/2/2015,,Operations,Operations Executive,984312,Needs Improvement
+EMP0722,Riya,Mehta,Female,Telangana,Hyderabad,Graduate,3/18/2003,10/7/2023,12/31/2025,HR,HR Manager,338374,Excellent
+EMP0723,Sneha,Jain,Female,Uttar Pradesh,Noida,10+2,6/23/1996,3/10/2021,,Operations,Operations Manager,1043820,Good
+EMP0724,Aditi,Malhotra,Female,Uttar Pradesh,Noida,Graduate,4/18/2001,9/28/2019,12/31/2025,IT,QA Engineer,312857,Average
+EMP0725,Siddharth,Jain,Male,Gujarat,Ahmedabad,10+2,12/20/2001,4/20/2022,9/11/2024,Sales,Sales Manager,850241,Excellent
+EMP0726,Riya,Singh,Female,Tamil Nadu,Chennai,Graduate,9/18/1991,3/11/2018,,Marketing,Marketing Executive,999051,Needs Improvement
+EMP0727,Arjun,Singh,Male,Telangana,Hyderabad,Graduate,3/11/1995,2/6/2016,,Marketing,SEO Specialist,1118679,Needs Improvement
+EMP0728,Vivaan,Kumar,Male,Karnataka,Mysuru,Diploma,1/3/1995,11/16/2015,,Marketing,SEO Specialist,866813,Needs Improvement
+EMP0729,Siddharth,Malhotra,Male,West Bengal,Kolkata,Post Graduate,6/15/2000,6/28/2020,,HR,HR Executive,780354,Good
+EMP0730,Kavya,Sharma,Female,Karnataka,Mysuru,10+2,6/30/1998,7/23/2024,12/31/2025,IT,Software Engineer,637538,Average
+EMP0731,Vivaan,Jain,Male,Karnataka,Bengaluru,Graduate,11/3/1991,3/14/2019,8/7/2023,Finance,Financial Analyst,279336,Good
+EMP0732,Rohan,Malhotra,Male,Rajasthan,Jaipur,Graduate,5/12/1991,6/2/2017,,Marketing,SEO Specialist,252187,Excellent
+EMP0733,Pooja,Patel,Female,Madhya Pradesh,Bhopal,Post Graduate,7/30/1992,10/6/2023,,Sales,Sales Executive,1048963,Good
+EMP0734,Sneha,Patel,Female,West Bengal,Kolkata,Diploma,4/29/2001,8/25/2018,,Operations,Operations Manager,656045,Good
+EMP0735,Aditya,Gupta,Male,Maharashtra,Nagpur,Graduate,8/2/1997,3/27/2022,,Marketing,Marketing Executive,451774,Excellent
+EMP0736,Sneha,Sharma,Female,Delhi,New Delhi,10+2,3/3/1991,10/28/2023,,HR,HR Manager,338759,Average
+EMP0737,Anjali,Malhotra,Female,Maharashtra,Pune,10+2,8/16/1992,11/26/2019,12/4/2022,Sales,Sales Executive,1151406,Average
+EMP0738,Anjali,Agarwal,Female,Delhi,New Delhi,10+2,2/25/1997,11/19/2016,,HR,HR Executive,517968,Excellent
+EMP0739,Rohan,Agarwal,Male,Rajasthan,Jaipur,10+2,10/13/1998,8/25/2018,9/6/2021,IT,QA Engineer,311343,Average
+EMP0740,Anjali,Verma,Female,Gujarat,Ahmedabad,Post Graduate,4/9/1992,11/22/2017,,IT,Software Engineer,462398,Good
+EMP0741,Isha,Malhotra,Female,Tamil Nadu,Coimbatore,Post Graduate,8/1/1987,1/8/2018,,Finance,Financial Analyst,829989,Needs Improvement
+EMP0742,Aditya,Patel,Male,Maharashtra,Pune,Diploma,6/2/1985,1/7/2018,,Operations,Operations Executive,508281,Good
+EMP0743,Pooja,Patel,Female,Delhi,New Delhi,Diploma,5/17/1993,1/22/2021,,HR,HR Manager,832119,Needs Improvement
+EMP0744,Vivaan,Sharma,Male,West Bengal,Kolkata,Diploma,1/5/1985,9/4/2015,,Finance,Financial Analyst,1130266,Needs Improvement
+EMP0745,Neha,Mehta,Female,Madhya Pradesh,Bhopal,10+2,8/15/1988,4/16/2023,,Operations,Operations Executive,565242,Excellent
+EMP0746,Anjali,Verma,Female,Karnataka,Mysuru,Post Graduate,9/24/1989,11/5/2021,12/31/2025,Finance,Financial Analyst,916023,Average
+EMP0747,Aman,Singh,Male,Gujarat,Ahmedabad,Post Graduate,6/13/1998,9/7/2018,11/11/2019,Marketing,Marketing Executive,927844,Excellent
+EMP0748,Isha,Patel,Female,Maharashtra,Mumbai,Diploma,4/8/1994,3/26/2021,12/31/2025,Sales,Sales Executive,1075549,Excellent
+EMP0749,Riya,Verma,Female,Gujarat,Surat,Graduate,9/4/1993,12/26/2016,,IT,Data Analyst,638477,Good
+EMP0750,Riya,Sharma,Female,Tamil Nadu,Chennai,Graduate,4/7/2000,12/14/2022,,HR,HR Executive,1105932,Average
+EMP0751,Aman,Mehta,Male,West Bengal,Kolkata,10+2,4/19/1991,7/11/2020,12/31/2025,HR,HR Executive,455611,Needs Improvement
+EMP0752,Arjun,Agarwal,Male,Madhya Pradesh,Bhopal,Diploma,5/18/1997,3/4/2017,,Marketing,Marketing Executive,318535,Good
+EMP0753,Aditya,Gupta,Male,Uttar Pradesh,Noida,Graduate,4/21/1989,7/4/2024,,Marketing,SEO Specialist,963745,Needs Improvement
+EMP0754,Aarav,Kumar,Male,Maharashtra,Pune,Post Graduate,12/9/2003,7/25/2019,,IT,QA Engineer,793471,Needs Improvement
+EMP0755,Kavya,Singh,Female,Telangana,Hyderabad,Diploma,1/20/1986,2/12/2018,,Operations,Operations Manager,581603,Excellent
+EMP0756,Anjali,Mehta,Female,Gujarat,Ahmedabad,10+2,7/17/2001,7/13/2017,,IT,Software Engineer,456440,Good
+EMP0757,Priya,Agarwal,Female,Delhi,New Delhi,10+2,10/7/1995,11/5/2019,,Operations,Operations Manager,1131336,Average
+EMP0758,Aman,Verma,Male,West Bengal,Kolkata,Graduate,9/3/2003,8/11/2015,,Operations,Operations Executive,326452,Needs Improvement
+EMP0759,Nisha,Verma,Female,Delhi,New Delhi,10+2,6/19/1993,7/7/2018,,HR,HR Executive,1091363,Needs Improvement
+EMP0760,Vivaan,Agarwal,Male,Madhya Pradesh,Bhopal,10+2,4/15/1987,8/7/2022,,Operations,Operations Executive,559242,Needs Improvement
+EMP0761,Anjali,Verma,Female,Madhya Pradesh,Bhopal,Diploma,6/13/1998,10/31/2023,,IT,Data Analyst,652569,Needs Improvement
+EMP0762,Pooja,Malhotra,Female,Madhya Pradesh,Indore,Graduate,8/8/1999,7/30/2022,,Sales,Sales Manager,866366,Good
+EMP0763,Arjun,Verma,Male,Maharashtra,Nagpur,10+2,4/19/1998,11/8/2023,,Operations,Operations Executive,918324,Average
+EMP0764,Riya,Gupta,Female,Tamil Nadu,Chennai,10+2,5/11/1986,6/6/2016,,Operations,Operations Manager,788051,Average
+EMP0765,Aditi,Gupta,Female,Karnataka,Mysuru,Graduate,7/14/1998,11/5/2018,,Finance,Accountant,792827,Good
+EMP0766,Vivaan,Mehta,Male,Telangana,Hyderabad,Post Graduate,9/17/1992,3/11/2017,,Marketing,Marketing Executive,1073408,Excellent
+EMP0767,Isha,Singh,Female,Madhya Pradesh,Bhopal,Graduate,5/23/1994,9/8/2018,,IT,Data Analyst,1168663,Excellent
+EMP0768,Kavya,Mehta,Female,Maharashtra,Nagpur,Diploma,7/19/2000,8/1/2017,,Operations,Operations Executive,500629,Needs Improvement
+EMP0769,Karan,Kumar,Male,Karnataka,Bengaluru,Graduate,3/23/1985,10/30/2015,,IT,QA Engineer,370784,Good
+EMP0770,Karan,Malhotra,Male,Gujarat,Ahmedabad,10+2,6/20/1989,3/21/2017,5/27/2021,HR,HR Executive,1178390,Average
+EMP0771,Aditi,Mehta,Female,Karnataka,Bengaluru,10+2,12/13/1988,6/14/2024,,IT,Software Engineer,1121834,Good
+EMP0772,Anjali,Verma,Female,Gujarat,Ahmedabad,Graduate,3/27/1995,9/10/2017,,Finance,Accountant,802522,Needs Improvement
+EMP0773,Rohan,Gupta,Male,Tamil Nadu,Chennai,Post Graduate,7/29/2000,3/13/2019,10/5/2023,Operations,Operations Manager,917044,Good
+EMP0774,Vivaan,Malhotra,Male,Madhya Pradesh,Indore,Graduate,9/17/2002,8/31/2016,,HR,HR Executive,910035,Average
+EMP0775,Karan,Verma,Male,West Bengal,Kolkata,Diploma,5/29/1996,5/9/2019,,Finance,Financial Analyst,794098,Needs Improvement
+EMP0776,Kavya,Agarwal,Female,Madhya Pradesh,Bhopal,10+2,8/25/1989,6/18/2017,,Sales,Sales Executive,665131,Good
+EMP0777,Ankit,Kumar,Male,Rajasthan,Jaipur,Graduate,9/17/1990,3/5/2021,,HR,HR Executive,559380,Needs Improvement
+EMP0778,Aman,Malhotra,Male,Maharashtra,Pune,Graduate,7/23/1994,1/22/2020,12/31/2025,Sales,Sales Manager,635364,Needs Improvement
+EMP0779,Anjali,Sharma,Female,Karnataka,Mysuru,Diploma,12/16/1990,3/28/2022,2/1/2024,Finance,Accountant,558824,Excellent
+EMP0780,Siddharth,Mehta,Male,Delhi,New Delhi,10+2,1/30/1993,6/6/2015,,HR,HR Manager,456198,Average
+EMP0781,Siddharth,Agarwal,Male,Uttar Pradesh,Noida,Diploma,11/16/2001,1/12/2023,,Finance,Accountant,1057483,Average
+EMP0782,Anjali,Kumar,Female,Madhya Pradesh,Indore,Post Graduate,9/3/1999,9/30/2020,,Sales,Sales Executive,487949,Good
+EMP0783,Kavya,Mehta,Female,Telangana,Hyderabad,Post Graduate,8/22/1992,11/18/2023,11/3/2025,Finance,Accountant,699622,Needs Improvement
+EMP0784,Riya,Jain,Female,Maharashtra,Pune,Diploma,12/14/1997,10/18/2024,,Finance,Accountant,774078,Average
+EMP0785,Pooja,Kumar,Female,Rajasthan,Udaipur,Graduate,3/2/1998,4/6/2015,8/16/2022,IT,Software Engineer,411156,Average
+EMP0786,Isha,Malhotra,Female,Rajasthan,Udaipur,Diploma,10/6/1993,9/18/2015,,Sales,Sales Executive,747840,Excellent
+EMP0787,Arjun,Jain,Male,Karnataka,Bengaluru,Post Graduate,8/8/1985,2/3/2017,,IT,Data Analyst,547604,Good
+EMP0788,Aman,Agarwal,Male,Telangana,Hyderabad,Post Graduate,4/16/1986,2/18/2019,,IT,Software Engineer,592645,Needs Improvement
+EMP0789,Arjun,Gupta,Male,Telangana,Hyderabad,Post Graduate,9/1/2001,10/9/2015,,HR,HR Executive,1162732,Good
+EMP0790,Isha,Malhotra,Female,Uttar Pradesh,Noida,Post Graduate,3/7/1991,4/6/2017,,HR,HR Manager,317077,Needs Improvement
+EMP0791,Isha,Mehta,Female,Telangana,Hyderabad,Post Graduate,4/28/1995,3/10/2020,12/31/2025,IT,QA Engineer,345528,Average
+EMP0792,Riya,Singh,Female,Uttar Pradesh,Lucknow,Diploma,4/24/1994,10/17/2017,10/21/2020,Operations,Operations Manager,730067,Needs Improvement
+EMP0793,Vivaan,Mehta,Male,Karnataka,Mysuru,Graduate,12/15/1999,10/1/2015,3/8/2019,Sales,Sales Manager,1048868,Excellent
+EMP0794,Riya,Sharma,Female,Delhi,New Delhi,Post Graduate,9/16/1992,5/14/2023,12/31/2025,HR,HR Manager,289609,Excellent
+EMP0795,Siddharth,Verma,Male,Karnataka,Mysuru,Post Graduate,11/16/1995,3/4/2020,12/8/2021,IT,QA Engineer,938938,Good
+EMP0796,Rahul,Gupta,Male,Maharashtra,Nagpur,10+2,12/22/1988,4/19/2018,,Operations,Operations Manager,426636,Excellent
+EMP0797,Neha,Gupta,Female,Tamil Nadu,Chennai,Diploma,12/1/1994,10/24/2022,,Marketing,Marketing Executive,659593,Average
+EMP0798,Vivaan,Kumar,Male,Tamil Nadu,Chennai,Graduate,5/9/1990,3/30/2017,,IT,Data Analyst,279301,Excellent
+EMP0799,Aditya,Mehta,Male,Delhi,New Delhi,Diploma,12/27/1985,8/30/2019,,IT,Data Analyst,588354,Good
+EMP0800,Isha,Mehta,Female,Telangana,Hyderabad,Post Graduate,9/17/1987,8/9/2017,,IT,Data Analyst,589075,Good
+EMP0801,Priya,Sharma,Female,Rajasthan,Jaipur,Post Graduate,12/9/1989,9/28/2015,,Marketing,SEO Specialist,296073,Excellent
+EMP0802,Aditi,Malhotra,Female,Karnataka,Mysuru,10+2,6/16/1998,8/21/2018,,Marketing,SEO Specialist,960830,Good
+EMP0803,Priya,Gupta,Female,Gujarat,Surat,10+2,7/8/1992,3/14/2015,1/8/2023,Operations,Operations Manager,650945,Good
+EMP0804,Sneha,Malhotra,Female,Maharashtra,Mumbai,10+2,10/29/1998,7/6/2023,,Finance,Accountant,1023758,Needs Improvement
+EMP0805,Rohan,Singh,Male,West Bengal,Kolkata,Diploma,5/27/1988,3/20/2019,7/4/2022,Marketing,Marketing Executive,499628,Needs Improvement
+EMP0806,Priya,Gupta,Female,Uttar Pradesh,Lucknow,10+2,9/6/1996,11/18/2023,,Marketing,SEO Specialist,1037009,Excellent
+EMP0807,Aman,Singh,Male,Gujarat,Ahmedabad,Diploma,2/5/1997,8/10/2015,5/23/2019,Marketing,Marketing Executive,887600,Needs Improvement
+EMP0808,Rahul,Patel,Male,Maharashtra,Mumbai,Post Graduate,7/28/1986,2/27/2017,,Marketing,Marketing Executive,464140,Good
+EMP0809,Karan,Mehta,Male,Telangana,Hyderabad,Post Graduate,4/6/2001,3/28/2020,,HR,HR Executive,506822,Needs Improvement
+EMP0810,Aman,Agarwal,Male,Uttar Pradesh,Lucknow,Diploma,2/6/1991,9/2/2024,,IT,Data Analyst,667589,Needs Improvement
+EMP0811,Rahul,Patel,Male,West Bengal,Kolkata,Post Graduate,1/20/2002,9/30/2016,,IT,Data Analyst,698158,Excellent
+EMP0812,Aditi,Gupta,Female,Telangana,Hyderabad,Graduate,7/14/1993,3/14/2020,,Sales,Sales Manager,643370,Needs Improvement
+EMP0813,Karan,Gupta,Male,Tamil Nadu,Chennai,10+2,3/25/1996,3/11/2023,12/31/2025,Sales,Sales Manager,686019,Needs Improvement
+EMP0814,Nisha,Verma,Female,Rajasthan,Jaipur,10+2,8/19/1993,5/5/2021,,HR,HR Manager,517657,Average
+EMP0815,Sneha,Patel,Female,Gujarat,Ahmedabad,Post Graduate,7/6/1994,4/2/2023,,HR,HR Manager,286183,Average
+EMP0816,Aarav,Gupta,Male,Uttar Pradesh,Lucknow,Diploma,9/15/1990,10/10/2017,7/11/2025,Operations,Operations Executive,262936,Excellent
+EMP0817,Aditya,Kumar,Male,Rajasthan,Jaipur,Diploma,6/27/1994,11/10/2016,,Finance,Financial Analyst,774966,Needs Improvement
+EMP0818,Nisha,Agarwal,Female,Rajasthan,Jaipur,10+2,4/9/1999,6/3/2021,12/31/2025,HR,HR Manager,1035100,Good
+EMP0819,Anjali,Agarwal,Female,Maharashtra,Mumbai,Post Graduate,1/13/1985,2/1/2016,,Marketing,SEO Specialist,800462,Needs Improvement
+EMP0820,Rahul,Gupta,Male,Gujarat,Ahmedabad,Diploma,6/11/1989,6/15/2020,6/30/2023,Operations,Operations Executive,722552,Good
+EMP0821,Rahul,Mehta,Male,Maharashtra,Nagpur,Diploma,2/24/2003,7/7/2023,,Finance,Financial Analyst,712139,Excellent
+EMP0822,Rahul,Verma,Male,Uttar Pradesh,Noida,Post Graduate,10/19/1987,2/7/2018,,Finance,Accountant,864094,Good
+EMP0823,Vivaan,Agarwal,Male,Maharashtra,Nagpur,10+2,3/5/1987,5/14/2017,,IT,Data Analyst,882275,Average
+EMP0824,Vivaan,Singh,Male,Gujarat,Ahmedabad,10+2,4/2/1995,10/5/2024,,Marketing,Marketing Executive,276927,Excellent
+EMP0825,Sneha,Agarwal,Female,Tamil Nadu,Coimbatore,Post Graduate,11/14/1998,9/11/2022,12/31/2025,Operations,Operations Manager,942299,Good
+EMP0826,Aarav,Singh,Male,Maharashtra,Nagpur,Graduate,1/10/1986,1/21/2024,,Marketing,SEO Specialist,494903,Needs Improvement
+EMP0827,Karan,Gupta,Male,Telangana,Hyderabad,Diploma,3/3/1996,12/8/2023,,Finance,Financial Analyst,426216,Needs Improvement
+EMP0828,Aditi,Mehta,Female,Tamil Nadu,Chennai,Diploma,11/23/2001,5/26/2022,,IT,Data Analyst,1000534,Excellent
+EMP0829,Anjali,Agarwal,Female,Tamil Nadu,Coimbatore,Post Graduate,1/16/2000,5/19/2016,,Operations,Operations Manager,344835,Average
+EMP0830,Isha,Verma,Female,Gujarat,Surat,Post Graduate,9/1/1999,3/15/2022,,Sales,Sales Executive,484410,Average
+EMP0831,Arjun,Malhotra,Male,Gujarat,Ahmedabad,Graduate,7/12/1993,6/21/2021,,Finance,Accountant,868722,Good
+EMP0832,Anjali,Kumar,Female,Gujarat,Surat,Diploma,8/28/1996,6/11/2022,,Operations,Operations Executive,361763,Needs Improvement
+EMP0833,Rohan,Agarwal,Male,Tamil Nadu,Coimbatore,Post Graduate,4/22/1988,9/29/2021,,HR,HR Executive,877971,Average
+EMP0834,Vivaan,Singh,Male,Karnataka,Bengaluru,Diploma,9/16/2000,4/2/2023,11/2/2024,HR,HR Manager,1012729,Needs Improvement
+EMP0835,Ankit,Gupta,Male,Maharashtra,Nagpur,Post Graduate,7/27/1992,9/27/2019,,Finance,Financial Analyst,660059,Excellent
+EMP0836,Sneha,Agarwal,Female,Uttar Pradesh,Noida,Post Graduate,3/9/1987,6/20/2016,,Operations,Operations Executive,1141090,Average
+EMP0837,Nisha,Gupta,Female,West Bengal,Kolkata,Graduate,4/1/1988,5/9/2017,,Marketing,Marketing Executive,1021037,Excellent
+EMP0838,Arjun,Gupta,Male,Rajasthan,Udaipur,Diploma,4/7/1986,1/29/2016,,Sales,Sales Executive,305021,Excellent
+EMP0839,Rohan,Kumar,Male,Tamil Nadu,Chennai,10+2,5/28/1990,6/13/2019,,Finance,Accountant,934507,Needs Improvement
+EMP0840,Arjun,Verma,Male,Delhi,New Delhi,Diploma,7/8/1985,7/31/2021,,Operations,Operations Manager,537021,Excellent
+EMP0841,Nisha,Gupta,Female,Rajasthan,Udaipur,Post Graduate,9/11/1991,5/29/2021,10/23/2023,IT,Data Analyst,316582,Good
+EMP0842,Anjali,Sharma,Female,Rajasthan,Udaipur,10+2,8/21/1996,5/21/2024,,Operations,Operations Executive,1040110,Good
+EMP0843,Rohan,Malhotra,Male,Tamil Nadu,Chennai,10+2,8/13/1997,11/17/2017,,IT,Software Engineer,780734,Average
+EMP0844,Aarav,Mehta,Male,Uttar Pradesh,Noida,Graduate,10/14/1999,12/27/2020,,HR,HR Manager,978866,Average
+EMP0845,Isha,Jain,Female,Telangana,Hyderabad,10+2,11/12/1999,3/11/2024,9/10/2025,HR,HR Executive,447209,Good
+EMP0846,Nisha,Singh,Female,Uttar Pradesh,Noida,Post Graduate,9/2/1986,3/2/2021,1/9/2025,Finance,Financial Analyst,931332,Good
+EMP0847,Karan,Singh,Male,Madhya Pradesh,Indore,Post Graduate,6/6/2003,9/20/2016,,Sales,Sales Manager,277168,Good
+EMP0848,Priya,Verma,Female,Gujarat,Surat,Graduate,4/13/1988,9/28/2024,,Finance,Accountant,352704,Needs Improvement
+EMP0849,Aman,Kumar,Male,Delhi,New Delhi,Diploma,10/22/1996,3/3/2023,,Operations,Operations Manager,350181,Average
+EMP0850,Nisha,Agarwal,Female,Telangana,Hyderabad,10+2,1/28/1986,11/30/2016,,Sales,Sales Executive,611940,Needs Improvement
+EMP0851,Rohan,Kumar,Male,Madhya Pradesh,Bhopal,10+2,4/9/2001,3/3/2022,,Marketing,Marketing Executive,961160,Needs Improvement
+EMP0852,Pooja,Jain,Female,Tamil Nadu,Coimbatore,10+2,11/9/1991,7/24/2019,,IT,QA Engineer,333335,Excellent
+EMP0853,Aman,Verma,Male,Karnataka,Bengaluru,10+2,9/4/2001,3/16/2018,,Sales,Sales Executive,694579,Good
+EMP0854,Aarav,Malhotra,Male,Tamil Nadu,Chennai,Post Graduate,10/4/2000,12/28/2020,,HR,HR Executive,886877,Needs Improvement
+EMP0855,Rahul,Jain,Male,Tamil Nadu,Chennai,10+2,3/26/1993,5/31/2024,,Operations,Operations Manager,303379,Needs Improvement
+EMP0856,Kavya,Kumar,Female,Karnataka,Mysuru,10+2,7/31/1992,8/13/2022,12/31/2025,Operations,Operations Executive,554154,Average
+EMP0857,Aarav,Malhotra,Male,Rajasthan,Jaipur,Graduate,6/4/1999,10/12/2020,,Sales,Sales Manager,310289,Average
+EMP0858,Aarav,Malhotra,Male,West Bengal,Kolkata,Graduate,12/9/1992,3/14/2016,4/4/2017,Finance,Accountant,671598,Average
+EMP0859,Karan,Verma,Male,Telangana,Hyderabad,Post Graduate,10/12/1987,6/19/2020,7/17/2021,HR,HR Manager,487078,Needs Improvement
+EMP0860,Aditi,Agarwal,Female,Delhi,New Delhi,Post Graduate,8/18/1988,7/26/2016,,Marketing,SEO Specialist,256092,Average
+EMP0861,Vivaan,Gupta,Male,Rajasthan,Udaipur,Graduate,9/16/1985,10/18/2016,,Sales,Sales Manager,374562,Needs Improvement
+EMP0862,Sneha,Kumar,Female,Karnataka,Bengaluru,10+2,10/12/2002,3/28/2015,8/25/2017,HR,HR Manager,774288,Excellent
+EMP0863,Aman,Sharma,Male,Gujarat,Surat,10+2,9/29/1994,5/20/2020,8/17/2024,Finance,Financial Analyst,336627,Needs Improvement
+EMP0864,Rahul,Mehta,Male,Uttar Pradesh,Noida,Graduate,9/21/2000,10/10/2017,,HR,HR Manager,990777,Excellent
+EMP0865,Sneha,Malhotra,Female,Karnataka,Bengaluru,Diploma,2/23/1990,5/8/2016,,Sales,Sales Executive,537164,Good
+EMP0866,Rohan,Kumar,Male,Maharashtra,Nagpur,Diploma,1/15/1987,9/10/2024,,Sales,Sales Manager,800472,Average
+EMP0867,Aman,Mehta,Male,Gujarat,Surat,Post Graduate,5/18/1986,9/19/2020,,Marketing,Marketing Executive,569071,Excellent
+EMP0868,Siddharth,Singh,Male,Uttar Pradesh,Lucknow,Post Graduate,7/17/1990,8/3/2018,2/13/2020,HR,HR Executive,250561,Excellent
+EMP0869,Kavya,Singh,Female,Gujarat,Surat,10+2,3/5/1987,7/3/2022,,Marketing,Marketing Executive,597300,Average
+EMP0870,Sneha,Malhotra,Female,Gujarat,Ahmedabad,Graduate,9/17/1989,7/21/2021,,IT,Software Engineer,386823,Excellent
+EMP0871,Vivaan,Malhotra,Male,Tamil Nadu,Chennai,Post Graduate,3/20/1987,11/3/2015,,Operations,Operations Manager,566120,Needs Improvement
+EMP0872,Siddharth,Jain,Male,Gujarat,Surat,Post Graduate,2/16/1999,1/17/2023,,Sales,Sales Executive,756274,Needs Improvement
+EMP0873,Aarav,Gupta,Male,Madhya Pradesh,Bhopal,Diploma,7/1/1991,7/6/2015,11/10/2022,IT,QA Engineer,449429,Needs Improvement
+EMP0874,Rahul,Sharma,Male,Karnataka,Bengaluru,10+2,9/25/2002,10/1/2020,12/31/2025,Operations,Operations Manager,568148,Good
+EMP0875,Aditi,Verma,Female,Karnataka,Bengaluru,10+2,12/19/1996,9/2/2017,,IT,QA Engineer,405335,Average
+EMP0876,Vivaan,Mehta,Male,Tamil Nadu,Chennai,10+2,7/20/1999,11/24/2018,,Operations,Operations Manager,590327,Excellent
+EMP0877,Aditi,Agarwal,Female,Karnataka,Mysuru,Graduate,4/13/1992,8/23/2015,,IT,Data Analyst,479931,Average
+EMP0878,Aman,Singh,Male,Uttar Pradesh,Noida,Post Graduate,6/29/1988,1/2/2020,,Marketing,SEO Specialist,636547,Good
+EMP0879,Rahul,Mehta,Male,Madhya Pradesh,Bhopal,Diploma,7/11/1999,3/1/2018,,Finance,Accountant,1178255,Good
+EMP0880,Rohan,Verma,Male,Rajasthan,Jaipur,Post Graduate,6/21/1999,7/7/2019,,Marketing,Marketing Executive,1012067,Excellent
+EMP0881,Isha,Verma,Female,Rajasthan,Udaipur,10+2,6/21/1987,4/8/2024,,Marketing,Marketing Executive,388599,Good
+EMP0882,Aman,Sharma,Male,Telangana,Hyderabad,10+2,6/23/1985,4/1/2024,,IT,QA Engineer,561152,Excellent
+EMP0883,Aman,Sharma,Male,Tamil Nadu,Coimbatore,Post Graduate,4/22/1988,12/18/2018,,HR,HR Manager,970126,Excellent
+EMP0884,Arjun,Mehta,Male,Delhi,New Delhi,Graduate,9/17/1986,11/26/2021,12/31/2025,IT,Data Analyst,338923,Excellent
+EMP0885,Kavya,Singh,Female,Uttar Pradesh,Noida,10+2,5/2/1988,9/21/2023,,Finance,Accountant,659573,Needs Improvement
+EMP0886,Arjun,Malhotra,Male,Rajasthan,Udaipur,Diploma,1/11/1987,8/16/2018,,HR,HR Manager,619737,Average
+EMP0887,Kavya,Kumar,Female,West Bengal,Kolkata,Graduate,2/7/1988,12/30/2023,,Sales,Sales Manager,826023,Needs Improvement
+EMP0888,Sneha,Malhotra,Female,Tamil Nadu,Chennai,Diploma,2/11/1993,1/12/2015,,IT,Data Analyst,835498,Needs Improvement
+EMP0889,Rohan,Verma,Male,Maharashtra,Pune,Graduate,6/19/2002,3/8/2024,12/31/2025,Finance,Financial Analyst,401141,Needs Improvement
+EMP0890,Aman,Mehta,Male,Tamil Nadu,Chennai,Diploma,8/19/1987,10/20/2022,5/28/2025,Sales,Sales Executive,979937,Needs Improvement
+EMP0891,Neha,Sharma,Female,Delhi,New Delhi,Post Graduate,10/14/2003,8/29/2021,,IT,Software Engineer,632986,Good
+EMP0892,Sneha,Agarwal,Female,West Bengal,Kolkata,Graduate,12/17/1994,10/6/2023,,Finance,Accountant,413459,Excellent
+EMP0893,Vivaan,Malhotra,Male,Karnataka,Bengaluru,10+2,11/22/1993,5/3/2024,,Marketing,SEO Specialist,831074,Average
+EMP0894,Aditi,Malhotra,Female,Delhi,New Delhi,Post Graduate,1/10/1992,4/27/2022,,Sales,Sales Manager,422830,Excellent
+EMP0895,Isha,Singh,Female,Maharashtra,Mumbai,Graduate,8/26/1988,1/27/2021,,IT,Software Engineer,876116,Excellent
+EMP0896,Arjun,Singh,Male,Rajasthan,Jaipur,Diploma,7/14/1985,8/2/2021,,Sales,Sales Executive,554212,Good
+EMP0897,Aman,Mehta,Male,Karnataka,Bengaluru,Graduate,1/14/1995,10/22/2023,12/31/2025,Finance,Financial Analyst,627819,Needs Improvement
+EMP0898,Vivaan,Kumar,Male,Tamil Nadu,Chennai,10+2,6/2/1988,5/11/2021,12/31/2025,Sales,Sales Executive,1093816,Excellent
+EMP0899,Aditi,Verma,Female,West Bengal,Kolkata,Post Graduate,1/14/1992,11/26/2016,3/20/2021,HR,HR Executive,543724,Average
+EMP0900,Arjun,Malhotra,Male,West Bengal,Kolkata,Graduate,6/7/1991,7/1/2019,,Operations,Operations Executive,712241,Average
+EMP0901,Priya,Singh,Female,Delhi,New Delhi,Post Graduate,11/24/1990,11/2/2024,,Operations,Operations Executive,1027039,Good
+EMP0902,Rohan,Verma,Male,Uttar Pradesh,Lucknow,Diploma,10/15/1997,6/24/2019,,HR,HR Manager,1166622,Needs Improvement
+EMP0903,Riya,Patel,Female,Telangana,Hyderabad,10+2,12/5/1986,1/8/2017,,Sales,Sales Manager,459160,Needs Improvement
+EMP0904,Isha,Patel,Female,Tamil Nadu,Coimbatore,10+2,3/31/1991,2/5/2020,,Operations,Operations Executive,742796,Good
+EMP0905,Karan,Singh,Male,Madhya Pradesh,Indore,Post Graduate,5/27/1986,1/25/2024,,Sales,Sales Manager,473787,Excellent
+EMP0906,Karan,Sharma,Male,Rajasthan,Udaipur,Graduate,4/5/1999,12/22/2016,,HR,HR Executive,537210,Needs Improvement
+EMP0907,Riya,Kumar,Female,Telangana,Hyderabad,Graduate,2/16/1989,4/24/2024,,IT,Data Analyst,608633,Average
+EMP0908,Aditi,Gupta,Female,Rajasthan,Udaipur,Post Graduate,6/18/2003,2/10/2015,,Operations,Operations Executive,331588,Good
+EMP0909,Isha,Kumar,Female,Tamil Nadu,Coimbatore,Diploma,4/15/1989,8/15/2022,,IT,Data Analyst,1103309,Average
+EMP0910,Rahul,Jain,Male,Madhya Pradesh,Indore,Post Graduate,7/23/1993,3/13/2018,,Marketing,SEO Specialist,986197,Excellent
+EMP0911,Isha,Kumar,Female,Delhi,New Delhi,10+2,3/18/1999,12/25/2019,,Operations,Operations Executive,950144,Average
+EMP0912,Pooja,Mehta,Female,Tamil Nadu,Coimbatore,Post Graduate,7/27/1987,3/12/2017,,IT,Data Analyst,1082308,Needs Improvement
+EMP0913,Pooja,Kumar,Female,Maharashtra,Pune,Diploma,5/20/1996,3/7/2018,,Marketing,SEO Specialist,572328,Needs Improvement
+EMP0914,Aman,Sharma,Male,Rajasthan,Jaipur,10+2,8/4/1985,9/20/2016,,Operations,Operations Manager,601367,Good
+EMP0915,Isha,Kumar,Female,Maharashtra,Nagpur,Post Graduate,11/22/1987,2/19/2022,12/31/2025,Marketing,Marketing Executive,672700,Average
+EMP0916,Sneha,Gupta,Female,Rajasthan,Jaipur,10+2,12/4/2000,12/26/2023,12/31/2025,Operations,Operations Executive,912113,Needs Improvement
+EMP0917,Pooja,Sharma,Female,Madhya Pradesh,Indore,10+2,11/12/1998,12/8/2022,12/31/2025,IT,QA Engineer,650980,Excellent
+EMP0918,Aarav,Malhotra,Male,Delhi,New Delhi,Post Graduate,5/14/1998,5/17/2016,7/29/2018,HR,HR Manager,524721,Good
+EMP0919,Pooja,Kumar,Female,Gujarat,Surat,Diploma,1/12/1989,5/8/2018,6/18/2019,HR,HR Executive,372900,Average
+EMP0920,Rahul,Jain,Male,Uttar Pradesh,Noida,Diploma,8/6/1998,5/2/2015,,IT,QA Engineer,786603,Good
+EMP0921,Karan,Singh,Male,Delhi,New Delhi,10+2,5/7/1992,7/21/2016,,IT,QA Engineer,975196,Good
+EMP0922,Siddharth,Agarwal,Male,West Bengal,Kolkata,10+2,10/26/1992,12/10/2022,,Marketing,SEO Specialist,739730,Needs Improvement
+EMP0923,Siddharth,Gupta,Male,Tamil Nadu,Coimbatore,Post Graduate,4/23/1987,7/18/2021,,Finance,Accountant,1082673,Good
+EMP0924,Kavya,Kumar,Female,West Bengal,Kolkata,Graduate,4/20/2003,7/29/2018,,IT,QA Engineer,651652,Needs Improvement
+EMP0925,Karan,Malhotra,Male,Gujarat,Surat,10+2,1/30/1995,11/16/2016,,Operations,Operations Manager,865377,Needs Improvement
+EMP0926,Anjali,Sharma,Female,Delhi,New Delhi,Graduate,8/19/1994,11/14/2023,,Finance,Accountant,326168,Good
+EMP0927,Priya,Sharma,Female,Gujarat,Ahmedabad,Post Graduate,9/23/1997,12/2/2023,,HR,HR Executive,654321,Average
+EMP0928,Isha,Mehta,Female,Telangana,Hyderabad,10+2,8/1/1997,2/12/2018,,Marketing,Marketing Executive,851828,Needs Improvement
+EMP0929,Karan,Sharma,Male,West Bengal,Kolkata,10+2,2/27/1991,9/22/2019,1/22/2022,IT,Data Analyst,429453,Average
+EMP0930,Ankit,Gupta,Male,Rajasthan,Jaipur,10+2,7/26/1992,3/26/2022,,IT,Data Analyst,349740,Needs Improvement
+EMP0931,Pooja,Mehta,Female,Karnataka,Bengaluru,Diploma,3/29/2001,2/10/2024,,Operations,Operations Executive,971673,Excellent
+EMP0932,Siddharth,Sharma,Male,Delhi,New Delhi,Graduate,9/7/1986,12/16/2017,,Marketing,SEO Specialist,533023,Good
+EMP0933,Riya,Verma,Female,Karnataka,Mysuru,Diploma,11/21/2001,7/20/2021,,Marketing,SEO Specialist,950695,Excellent
+EMP0934,Siddharth,Singh,Male,West Bengal,Kolkata,10+2,12/2/1990,8/5/2023,,Marketing,Marketing Executive,620157,Good
+EMP0935,Aarav,Mehta,Male,West Bengal,Kolkata,Diploma,12/9/1995,3/4/2016,,HR,HR Manager,1047429,Average
+EMP0936,Riya,Malhotra,Female,Telangana,Hyderabad,Post Graduate,3/20/1989,10/9/2015,,Sales,Sales Executive,969602,Average
+EMP0937,Siddharth,Sharma,Male,West Bengal,Kolkata,Graduate,12/16/1990,4/29/2016,,IT,Data Analyst,702432,Good
+EMP0938,Rohan,Kumar,Male,Telangana,Hyderabad,Graduate,3/12/1986,12/13/2019,,Finance,Accountant,301521,Needs Improvement
+EMP0939,Pooja,Mehta,Female,Uttar Pradesh,Noida,Post Graduate,12/18/1988,8/30/2021,,Operations,Operations Manager,793810,Needs Improvement
+EMP0940,Aman,Verma,Male,Tamil Nadu,Chennai,10+2,10/20/1985,6/14/2021,,HR,HR Executive,807980,Excellent
+EMP0941,Anjali,Kumar,Female,Delhi,New Delhi,Graduate,2/9/1996,4/22/2017,3/22/2020,HR,HR Manager,917837,Average
+EMP0942,Isha,Agarwal,Female,Maharashtra,Mumbai,Diploma,4/15/1996,11/9/2022,12/31/2025,Sales,Sales Manager,1143978,Good
+EMP0943,Rahul,Sharma,Male,Madhya Pradesh,Bhopal,Post Graduate,1/30/1998,1/5/2015,6/27/2021,HR,HR Manager,364699,Excellent
+EMP0944,Rahul,Gupta,Male,Delhi,New Delhi,Graduate,1/12/2003,4/4/2023,12/31/2025,Sales,Sales Manager,1020509,Average
+EMP0945,Pooja,Mehta,Female,Karnataka,Mysuru,Post Graduate,9/11/1985,9/27/2017,3/19/2025,Marketing,SEO Specialist,626879,Good
+EMP0946,Pooja,Agarwal,Female,Uttar Pradesh,Noida,10+2,12/31/1997,10/31/2020,,Operations,Operations Executive,704515,Needs Improvement
+EMP0947,Ankit,Verma,Male,Maharashtra,Pune,Diploma,6/18/1995,8/21/2022,,Operations,Operations Manager,904096,Good
+EMP0948,Ankit,Verma,Male,Uttar Pradesh,Noida,Post Graduate,12/2/1985,6/9/2017,8/11/2021,Operations,Operations Executive,305777,Needs Improvement
+EMP0949,Siddharth,Gupta,Male,Gujarat,Surat,Diploma,12/6/1986,12/31/2022,,HR,HR Executive,703038,Excellent
+EMP0950,Vivaan,Patel,Male,Gujarat,Ahmedabad,Post Graduate,6/24/1994,6/23/2019,,Finance,Financial Analyst,876040,Average
+EMP0951,Isha,Agarwal,Female,Tamil Nadu,Coimbatore,Diploma,12/5/1998,2/3/2021,,Finance,Accountant,1042026,Needs Improvement
+EMP0952,Isha,Verma,Female,Uttar Pradesh,Lucknow,Graduate,5/14/1986,5/12/2016,,Marketing,Marketing Executive,985652,Good
+EMP0953,Sneha,Gupta,Female,Telangana,Hyderabad,Diploma,1/6/1990,7/30/2022,,HR,HR Manager,908756,Average
+EMP0954,Isha,Mehta,Female,Delhi,New Delhi,10+2,6/7/1988,10/9/2021,,Operations,Operations Executive,509214,Good
+EMP0955,Riya,Malhotra,Female,Delhi,New Delhi,Diploma,4/9/1999,3/30/2015,,HR,HR Executive,429071,Good
+EMP0956,Anjali,Jain,Female,Delhi,New Delhi,Diploma,11/22/1992,5/10/2022,,Finance,Financial Analyst,999923,Good
+EMP0957,Siddharth,Agarwal,Male,Rajasthan,Jaipur,Post Graduate,6/12/1993,4/16/2020,,Marketing,Marketing Executive,854020,Average
+EMP0958,Aman,Verma,Male,Delhi,New Delhi,Post Graduate,4/5/1992,7/10/2023,,Marketing,Marketing Executive,360553,Good
+EMP0959,Nisha,Sharma,Female,Delhi,New Delhi,10+2,3/3/2003,7/29/2016,,Finance,Financial Analyst,845900,Excellent
+EMP0960,Karan,Mehta,Male,Madhya Pradesh,Bhopal,Graduate,12/30/1992,12/8/2021,,HR,HR Executive,710197,Needs Improvement
+EMP0961,Vivaan,Jain,Male,Delhi,New Delhi,Graduate,8/27/1999,5/3/2015,,Finance,Financial Analyst,523553,Good
+EMP0962,Aman,Singh,Male,Rajasthan,Udaipur,Graduate,7/13/2002,7/12/2024,,IT,Software Engineer,277633,Good
+EMP0963,Aditi,Malhotra,Female,Rajasthan,Jaipur,Post Graduate,3/4/1986,5/5/2019,,Marketing,Marketing Executive,700592,Needs Improvement
+EMP0964,Aarav,Mehta,Male,Rajasthan,Jaipur,10+2,2/22/2001,10/20/2017,,IT,Software Engineer,382871,Needs Improvement
+EMP0965,Aman,Patel,Male,Uttar Pradesh,Lucknow,Graduate,8/30/1999,9/27/2017,,Finance,Financial Analyst,981666,Excellent
+EMP0966,Pooja,Malhotra,Female,West Bengal,Kolkata,10+2,7/26/1989,7/15/2016,5/18/2023,HR,HR Manager,1027947,Good
+EMP0967,Aditi,Patel,Female,Rajasthan,Udaipur,Diploma,7/21/1993,3/29/2020,,HR,HR Executive,544335,Average
+EMP0968,Anjali,Sharma,Female,Madhya Pradesh,Bhopal,Graduate,1/11/1991,5/24/2022,,Marketing,Marketing Executive,380344,Average
+EMP0969,Siddharth,Gupta,Male,West Bengal,Kolkata,10+2,11/13/1994,2/6/2015,4/30/2021,IT,Data Analyst,753534,Good
+EMP0970,Rahul,Jain,Male,West Bengal,Kolkata,10+2,5/31/1997,1/17/2023,,IT,QA Engineer,521638,Average
+EMP0971,Isha,Mehta,Female,Gujarat,Ahmedabad,10+2,5/15/1996,12/23/2019,3/30/2022,Operations,Operations Executive,498490,Good
+EMP0972,Isha,Singh,Female,Gujarat,Surat,Graduate,7/23/1995,4/19/2018,,IT,Software Engineer,636192,Excellent
+EMP0973,Nisha,Sharma,Female,Delhi,New Delhi,Graduate,6/16/1996,1/10/2023,,Operations,Operations Manager,475306,Needs Improvement
+EMP0974,Nisha,Sharma,Female,Karnataka,Mysuru,10+2,9/26/1986,7/8/2017,11/8/2024,Operations,Operations Manager,815148,Excellent
+EMP0975,Nisha,Agarwal,Female,Tamil Nadu,Coimbatore,Diploma,12/3/2002,8/11/2023,,HR,HR Manager,580108,Excellent
+EMP0976,Pooja,Mehta,Female,Madhya Pradesh,Indore,Diploma,6/1/2002,7/28/2019,,Marketing,Marketing Executive,884960,Average
+EMP0977,Neha,Agarwal,Female,Karnataka,Bengaluru,Graduate,2/22/1991,6/16/2020,,HR,HR Executive,552491,Average
+EMP0978,Aarav,Mehta,Male,Karnataka,Mysuru,Diploma,2/8/2000,3/12/2017,3/2/2021,Sales,Sales Executive,758042,Good
+EMP0979,Karan,Sharma,Male,Rajasthan,Jaipur,Post Graduate,7/5/1997,11/8/2021,,Marketing,Marketing Executive,290698,Needs Improvement
+EMP0980,Siddharth,Patel,Male,Tamil Nadu,Coimbatore,10+2,12/3/1991,1/8/2020,,HR,HR Executive,812050,Good
+EMP0981,Siddharth,Patel,Male,Tamil Nadu,Chennai,Graduate,9/19/1999,6/18/2021,12/31/2025,Sales,Sales Manager,700399,Excellent
+EMP0982,Aman,Kumar,Male,Telangana,Hyderabad,Post Graduate,5/19/1991,11/18/2022,,Operations,Operations Executive,650984,Excellent
+EMP0983,Riya,Malhotra,Female,Karnataka,Bengaluru,Graduate,4/10/1999,4/9/2021,,Finance,Accountant,451998,Average
+EMP0984,Vivaan,Gupta,Male,Telangana,Hyderabad,Post Graduate,11/30/1999,4/16/2020,,Finance,Accountant,502468,Needs Improvement
+EMP0985,Neha,Agarwal,Female,Karnataka,Mysuru,Diploma,11/13/2001,3/31/2015,3/2/2021,Operations,Operations Manager,872408,Needs Improvement
+EMP0986,Riya,Mehta,Female,Delhi,New Delhi,Diploma,2/21/1992,7/23/2023,12/31/2025,Sales,Sales Manager,1191643,Average
+EMP0987,Pooja,Malhotra,Female,Rajasthan,Jaipur,Graduate,12/15/1995,7/6/2022,,IT,Software Engineer,1178606,Good
+EMP0988,Vivaan,Patel,Male,Uttar Pradesh,Noida,10+2,12/25/1995,2/29/2020,,IT,QA Engineer,969729,Average
+EMP0989,Aman,Kumar,Male,Telangana,Hyderabad,Post Graduate,8/14/1998,7/12/2024,12/31/2025,IT,Data Analyst,478909,Good
+EMP0990,Neha,Mehta,Female,Rajasthan,Udaipur,Graduate,4/13/2002,1/27/2019,,IT,QA Engineer,1177735,Average
+EMP0991,Aman,Kumar,Male,West Bengal,Kolkata,Graduate,7/13/2003,1/15/2020,,HR,HR Manager,552417,Excellent
+EMP0992,Anjali,Jain,Female,West Bengal,Kolkata,10+2,4/29/1987,8/20/2016,,Operations,Operations Executive,1007065,Good
+EMP0993,Siddharth,Singh,Male,Uttar Pradesh,Lucknow,Graduate,8/30/2002,1/19/2020,12/10/2023,Operations,Operations Manager,873303,Excellent
+EMP0994,Nisha,Sharma,Female,Uttar Pradesh,Lucknow,Post Graduate,9/13/1995,12/8/2021,,Finance,Accountant,865656,Average
+EMP0995,Vivaan,Patel,Male,Madhya Pradesh,Indore,Diploma,9/29/1990,12/10/2023,12/31/2025,Marketing,Marketing Executive,489431,Needs Improvement
+EMP0996,Vivaan,Gupta,Male,Telangana,Hyderabad,10+2,5/6/1992,10/5/2024,,HR,HR Executive,461499,Average
+EMP0997,Neha,Mehta,Female,Delhi,New Delhi,10+2,7/10/1987,5/2/2020,,Sales,Sales Manager,390934,Excellent
+EMP0998,Anjali,Jain,Female,Tamil Nadu,Chennai,Diploma,5/28/2002,3/10/2015,,Marketing,SEO Specialist,801105,Good
+EMP0999,Pooja,Malhotra,Female,Karnataka,Mysuru,Graduate,1/15/1990,11/11/2020,1/7/2023,IT,QA Engineer,882622,Average
+EMP1000,Nisha,Sharma,Female,West Bengal,Kolkata,Post Graduate,4/4/1998,11/22/2019,,HR,HR Executive,837159,Needs Improvement
