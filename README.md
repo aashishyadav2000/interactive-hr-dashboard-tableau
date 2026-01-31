@@ -24,7 +24,7 @@ https://public.tableau.com/app/profile/aashish.yadav/viz/ExampleCompanyHRDashboa
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](PASTE_IMAGE_ADDRESS_HERE)
+![HR Analytics Dashboard](https://raw.githubusercontent.com/aashishyadav2000/interactive-hr-dashboard-tableau/main/HR%20Dashboard%201.png)
 
 ## 🎯 Business Use Case
 Helps HR teams analyze workforce distribution, performance trends, and compensation patterns to support data-driven decisions.
