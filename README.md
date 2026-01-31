@@ -22,8 +22,9 @@ It provides insights into employee hiring trends, demographics, education, perfo
 ## 🌐 Live Dashboard
 https://public.tableau.com/app/profile/aashish.yadav/viz/ExampleCompanyHRDashboardFinal/ExampleCompanyHRSummary
 
-## 📷 Dashboard Preview
-https://github.com/aashishyadav2000/interactive-hr-dashboard-tableau/blob/main/HR%20Dashboard%201.png?raw=true
+## 📸 Dashboard Preview
+
+![HR Dashboard](PASTE_IMAGE_ADDRESS_HERE)
 
 ## 🎯 Business Use Case
 Helps HR teams analyze workforce distribution, performance trends, and compensation patterns to support data-driven decisions.
